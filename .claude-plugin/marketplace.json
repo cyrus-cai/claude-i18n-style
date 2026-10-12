@@ -1,0 +1,25 @@
+{
+  "name": "claude-i18n-style",
+  "owner": {
+    "name": "Cyrus Cai",
+    "url": "https://github.com/cyrus-cai"
+  },
+  "metadata": {
+    "description": "Claude's official terminology and writing style for product copy in 12 languages."
+  },
+  "plugins": [
+    {
+      "name": "claude-i18n-style",
+      "source": "./",
+      "description": "Write, translate and review product copy with the terminology and voice of Claude's official copy, in 12 languages. Use when writing or localizing UI strings, docs or release notes for an AI product.",
+      "category": "productivity",
+      "tags": [
+        "i18n",
+        "localization",
+        "translation",
+        "style-guide"
+      ],
+      "version": "1.0.0"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__/
+
+# Official Claude strings are copyright Anthropic and not distributed.
+# Fetch them with scripts/extract_desktop.py and sources/web/README.md, then build.
+sources/desktop/*.json
+sources/web/*.json
+sources/web/dynamic/
+data/strings.tsv
+
+# Build output; the zip is published as a GitHub release asset
+dist/*.zip

@@ -1,0 +1,4485 @@
+{
+  "$comment": "Glossary source file. match: regex for the English source, case-insensitive. variants: candidate translations per locale; build.py counts how often each appears in official translations. recommended: the preferred translation.",
+  "locales": [
+    "zh-Hans",
+    "zh-Hant",
+    "ja-JP",
+    "ko-KR",
+    "de-DE",
+    "fr-FR",
+    "es-ES",
+    "pt-BR",
+    "it-IT",
+    "ru",
+    "hi-IN"
+  ],
+  "terms": [
+    {
+      "id": "claude-code",
+      "category": "product",
+      "en": "Claude Code",
+      "match": "\\bClaude Code\\b",
+      "variants": {
+        "zh-Hans": [
+          "Claude Code"
+        ],
+        "zh-Hant": [
+          "Claude Code"
+        ],
+        "ja-JP": [
+          "Claude Code"
+        ],
+        "ko-KR": [
+          "Claude Code"
+        ],
+        "de-DE": [
+          "claude code"
+        ],
+        "fr-FR": [
+          "claude code"
+        ],
+        "es-ES": [
+          "claude code"
+        ],
+        "pt-BR": [
+          "claude code"
+        ],
+        "it-IT": [
+          "claude code"
+        ],
+        "ru": [
+          "claude code"
+        ],
+        "hi-IN": [
+          "claude code"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "Claude Code",
+        "zh-Hant": "Claude Code",
+        "ja-JP": "Claude Code",
+        "ko-KR": "Claude Code",
+        "de-DE": "Claude Code",
+        "fr-FR": "Claude Code",
+        "es-ES": "Claude Code",
+        "pt-BR": "Claude Code",
+        "it-IT": "Claude Code",
+        "ru": "Claude Code",
+        "hi-IN": "Claude Code"
+      },
+      "note": "Product name. Keep in English in every language, without quotation marks."
+    },
+    {
+      "id": "cowork",
+      "category": "product",
+      "en": "Cowork",
+      "match": "\\bCowork\\b",
+      "variants": {
+        "zh-Hans": [
+          "Cowork",
+          "协作"
+        ],
+        "zh-Hant": [
+          "Cowork",
+          "協作"
+        ],
+        "ja-JP": [
+          "Cowork"
+        ],
+        "ko-KR": [
+          "Cowork"
+        ],
+        "de-DE": [
+          "cowork"
+        ],
+        "fr-FR": [
+          "cowork"
+        ],
+        "es-ES": [
+          "cowork"
+        ],
+        "pt-BR": [
+          "cowork"
+        ],
+        "it-IT": [
+          "cowork"
+        ],
+        "ru": [
+          "cowork"
+        ],
+        "hi-IN": [
+          "cowork"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "Cowork",
+        "zh-Hant": "Cowork",
+        "ja-JP": "Cowork",
+        "ko-KR": "Cowork",
+        "de-DE": "Cowork",
+        "fr-FR": "Cowork",
+        "es-ES": "Cowork",
+        "pt-BR": "Cowork",
+        "it-IT": "Cowork",
+        "ru": "Cowork",
+        "hi-IN": "Cowork"
+      },
+      "note": "Product name. Keep in English."
+    },
+    {
+      "id": "remote-control",
+      "category": "product",
+      "en": "Remote Control",
+      "match": "\\bRemote Control\\b",
+      "variants": {
+        "zh-Hans": [
+          "Remote Control",
+          "远程控制"
+        ],
+        "zh-Hant": [
+          "Remote Control",
+          "遠端控制"
+        ],
+        "ja-JP": [
+          "Remote Control",
+          "リモートコントロール"
+        ],
+        "ko-KR": [
+          "Remote Control",
+          "원격 제어"
+        ],
+        "de-DE": [
+          "remote control",
+          "fernsteuerung",
+          "fernbedienung"
+        ],
+        "fr-FR": [
+          "contrôle à distance",
+          "remote control"
+        ],
+        "es-ES": [
+          "control remoto",
+          "remote control"
+        ],
+        "pt-BR": [
+          "controle remoto",
+          "remote control"
+        ],
+        "it-IT": [
+          "controllo remoto",
+          "remote control"
+        ],
+        "ru": [
+          "remote control",
+          "удаленн"
+        ],
+        "hi-IN": [
+          "remote control",
+          "रिमोट कंट्रोल"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "Remote Control",
+        "zh-Hant": "Remote Control",
+        "ja-JP": "リモートコントロール",
+        "ko-KR": "Remote Control",
+        "de-DE": "Remote Control",
+        "fr-FR": "Contrôle à distance",
+        "es-ES": "control remoto",
+        "pt-BR": "Remote Control",
+        "it-IT": "controllo remoto",
+        "ru": "Remote Control",
+        "hi-IN": "Remote Control"
+      },
+      "note": "Keep in English when capitalized as the feature name. Translate lowercase “remote control” used descriptively."
+    },
+    {
+      "id": "mcp",
+      "category": "product",
+      "en": "MCP / MCP server",
+      "match": "\\bMCP\\b",
+      "variants": {
+        "zh-Hans": [
+          "MCP 服务器",
+          "MCP"
+        ],
+        "zh-Hant": [
+          "MCP 伺服器",
+          "MCP"
+        ],
+        "ja-JP": [
+          "MCP サーバー",
+          "MCP"
+        ],
+        "ko-KR": [
+          "MCP 서버",
+          "MCP"
+        ],
+        "de-DE": [
+          "mcp"
+        ],
+        "fr-FR": [
+          "mcp"
+        ],
+        "es-ES": [
+          "mcp"
+        ],
+        "pt-BR": [
+          "mcp"
+        ],
+        "it-IT": [
+          "mcp"
+        ],
+        "ru": [
+          "mcp"
+        ],
+        "hi-IN": [
+          "mcp"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "MCP 服务器",
+        "zh-Hant": "MCP 伺服器",
+        "ja-JP": "MCP サーバー",
+        "ko-KR": "MCP 서버",
+        "de-DE": "MCP",
+        "fr-FR": "MCP",
+        "es-ES": "MCP",
+        "pt-BR": "MCP",
+        "it-IT": "MCP",
+        "ru": "MCP",
+        "hi-IN": "MCP"
+      },
+      "note": "Keep the abbreviation MCP; translate “server”."
+    },
+    {
+      "id": "desktop-app",
+      "category": "product",
+      "en": "desktop app",
+      "match": "\\bdesktop app\\b",
+      "variants": {
+        "zh-Hans": [
+          "桌面应用",
+          "桌面端"
+        ],
+        "zh-Hant": [
+          "桌面應用程式",
+          "桌面版"
+        ],
+        "ja-JP": [
+          "デスクトップアプリ"
+        ],
+        "ko-KR": [
+          "데스크톱 앱"
+        ],
+        "de-DE": [
+          "desktop-app",
+          "desktop-anwendung"
+        ],
+        "fr-FR": [
+          "application de bureau",
+          "application desktop"
+        ],
+        "es-ES": [
+          "aplicación de escritorio",
+          "app de escritorio"
+        ],
+        "pt-BR": [
+          "aplicativo para desktop",
+          "aplicativo desktop",
+          "aplicativo de desktop",
+          "app para desktop"
+        ],
+        "it-IT": [
+          "app desktop",
+          "applicazione desktop"
+        ],
+        "ru": [
+          "приложение для компьютера",
+          "приложения для компьютера",
+          "десктопн",
+          "настольн"
+        ],
+        "hi-IN": [
+          "डेस्कटॉप ऐप",
+          "डेस्कटॉप एप्लिकेशन"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "桌面应用",
+        "zh-Hant": "桌面應用程式",
+        "ja-JP": "デスクトップアプリ",
+        "ko-KR": "데스크톱 앱",
+        "de-DE": "Desktop-App",
+        "fr-FR": "application de bureau",
+        "es-ES": "aplicación de escritorio",
+        "pt-BR": "aplicativo para desktop",
+        "it-IT": "app desktop",
+        "ru": "приложение для компьютера / приложения для компьютера",
+        "hi-IN": "डेस्कटॉप ऐप"
+      },
+      "note": "Keep Claude Desktop and Claude Code for Desktop in English when used as names."
+    },
+    {
+      "id": "dispatch",
+      "category": "product",
+      "en": "Dispatch",
+      "match": "\\bdispatch\\b",
+      "variants": {
+        "zh-Hans": [
+          "Dispatch",
+          "派发",
+          "调度"
+        ],
+        "de-DE": [
+          "dispatch"
+        ],
+        "fr-FR": [
+          "dispatch"
+        ],
+        "es-ES": [
+          "dispatch"
+        ],
+        "pt-BR": [
+          "dispatch"
+        ],
+        "it-IT": [
+          "dispatch"
+        ],
+        "ru": [
+          "dispatch"
+        ],
+        "hi-IN": [
+          "dispatch",
+          "डिस्पैच"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "Dispatch",
+        "de-DE": "Dispatch",
+        "fr-FR": "Dispatch",
+        "es-ES": "Dispatch",
+        "pt-BR": "Dispatch",
+        "it-IT": "Dispatch",
+        "ru": "Dispatch",
+        "hi-IN": "Dispatch"
+      },
+      "note": "Keep Dispatch in English as the feature name and on toggles. zh-Hans translates the verb as 派发."
+    },
+    {
+      "id": "session",
+      "category": "concept",
+      "en": "Session",
+      "match": "\\bsessions?\\b",
+      "variants": {
+        "zh-Hans": [
+          "会话",
+          "Session"
+        ],
+        "zh-Hant": [
+          "工作階段",
+          "會話",
+          "Session"
+        ],
+        "ja-JP": [
+          "セッション"
+        ],
+        "ko-KR": [
+          "세션"
+        ],
+        "de-DE": [
+          "sitzung",
+          "session"
+        ],
+        "fr-FR": [
+          "session"
+        ],
+        "es-ES": [
+          "sesión",
+          "sesiones"
+        ],
+        "pt-BR": [
+          "sessão",
+          "sessões"
+        ],
+        "it-IT": [
+          "session"
+        ],
+        "ru": [
+          "сесси",
+          "сеанс"
+        ],
+        "hi-IN": [
+          "सेशन",
+          "सत्र"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "会话",
+        "zh-Hant": "工作階段",
+        "ja-JP": "セッション",
+        "ko-KR": "세션",
+        "de-DE": "Sitzung",
+        "fr-FR": "session",
+        "es-ES": "sesión / sesiones",
+        "pt-BR": "sessão / sessões",
+        "it-IT": "sessione",
+        "ru": "сессия",
+        "hi-IN": "सेशन"
+      },
+      "note": "A unit of work in Claude Code and Cowork. zh-Hans: session = 会话, chat and conversation = 对话; never mix them."
+    },
+    {
+      "id": "chat",
+      "category": "concept",
+      "en": "Chat / Conversation",
+      "match": "\\b(chats?|conversations?)\\b",
+      "variants": {
+        "zh-Hans": [
+          "对话",
+          "聊天"
+        ],
+        "zh-Hant": [
+          "對話",
+          "聊天"
+        ],
+        "ja-JP": [
+          "チャット",
+          "会話"
+        ],
+        "ko-KR": [
+          "채팅",
+          "대화"
+        ],
+        "de-DE": [
+          "chat",
+          "unterhaltung",
+          "konversation"
+        ],
+        "fr-FR": [
+          "conversation",
+          "chat",
+          "discussion"
+        ],
+        "es-ES": [
+          "chat",
+          "conversación"
+        ],
+        "pt-BR": [
+          "conversa",
+          "chat",
+          "bate-papo"
+        ],
+        "it-IT": [
+          "chat",
+          "conversazion"
+        ],
+        "ru": [
+          "чат",
+          "бесед",
+          "разговор"
+        ],
+        "hi-IN": [
+          "चैट",
+          "बातचीत"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "对话",
+        "zh-Hant": "對話",
+        "ja-JP": "チャット",
+        "ko-KR": "채팅",
+        "de-DE": "Chat",
+        "fr-FR": "conversation",
+        "es-ES": "chat",
+        "pt-BR": "conversa",
+        "it-IT": "chat",
+        "ru": "чат",
+        "hi-IN": "चैट"
+      },
+      "note": "zh-Hans uses 对话 for both chat and conversation, never 聊天. ja-JP and ko-KR: chat = チャット / 채팅, conversation = 会話 / 대화."
+    },
+    {
+      "id": "side-chat",
+      "category": "concept",
+      "en": "Side Chat",
+      "match": "\\bSide Chat\\b",
+      "variants": {
+        "zh-Hans": [
+          "侧边对话"
+        ],
+        "zh-Hant": [
+          "側邊對話"
+        ],
+        "ja-JP": [
+          "サイドチャット"
+        ],
+        "ko-KR": [
+          "사이드 채팅"
+        ],
+        "de-DE": [
+          "seitenchat",
+          "seiten-chat",
+          "nebenchat"
+        ],
+        "fr-FR": [
+          "conversation latérale",
+          "discussion latérale",
+          "chat latéral"
+        ],
+        "es-ES": [
+          "chat lateral",
+          "conversación lateral"
+        ],
+        "pt-BR": [
+          "chat lateral",
+          "conversa lateral"
+        ],
+        "it-IT": [
+          "chat laterale"
+        ],
+        "ru": [
+          "боков",
+          "побочн"
+        ],
+        "hi-IN": [
+          "साइड चैट"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "侧边对话",
+        "zh-Hant": "側邊對話",
+        "ja-JP": "サイドチャット",
+        "ko-KR": "사이드 채팅",
+        "de-DE": "Seitenchat",
+        "fr-FR": "conversation latérale",
+        "es-ES": "chat lateral",
+        "pt-BR": "chat lateral",
+        "it-IT": "chat laterale",
+        "ru": "боковой чат",
+        "hi-IN": "साइड चैट"
+      },
+      "note": ""
+    },
+    {
+      "id": "skill",
+      "category": "concept",
+      "en": "Skill",
+      "match": "\\bskills?\\b",
+      "variants": {
+        "zh-Hans": [
+          "Skill",
+          "技能"
+        ],
+        "zh-Hant": [
+          "Skill",
+          "技能"
+        ],
+        "ja-JP": [
+          "Skills",
+          "Skill",
+          "スキル"
+        ],
+        "ko-KR": [
+          "Skills",
+          "Skill",
+          "스킬"
+        ],
+        "de-DE": [
+          "skill",
+          "fähigkeit"
+        ],
+        "fr-FR": [
+          "compétence",
+          "skill"
+        ],
+        "es-ES": [
+          "habilidad",
+          "skill",
+          "competencia"
+        ],
+        "pt-BR": [
+          "habilidade",
+          "skill"
+        ],
+        "it-IT": [
+          "skill",
+          "competenz"
+        ],
+        "ru": [
+          "skill",
+          "навык"
+        ],
+        "hi-IN": [
+          "स्किल",
+          "कौशल"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "Skill",
+        "zh-Hant": "Skill",
+        "ja-JP": "Skills",
+        "ko-KR": "Skills",
+        "de-DE": "Skill",
+        "fr-FR": "compétence",
+        "es-ES": "habilidad",
+        "pt-BR": "habilidade",
+        "it-IT": "skill",
+        "ru": "Skill",
+        "hi-IN": "स्किल"
+      },
+      "note": "zh-Hans and zh-Hant keep Skill in English, never 技能. ja-JP uses the plural Skills."
+    },
+    {
+      "id": "artifact",
+      "category": "concept",
+      "en": "Artifact",
+      "match": "\\bartifacts?\\b",
+      "variants": {
+        "zh-Hans": [
+          "Artifact",
+          "工件",
+          "成品"
+        ],
+        "zh-Hant": [
+          "Artifact",
+          "成品"
+        ],
+        "ja-JP": [
+          "Artifacts",
+          "Artifact"
+        ],
+        "ko-KR": [
+          "아티팩트",
+          "Artifact"
+        ],
+        "de-DE": [
+          "artefakt",
+          "artifact"
+        ],
+        "fr-FR": [
+          "artéfact",
+          "artefact"
+        ],
+        "es-ES": [
+          "artefacto"
+        ],
+        "pt-BR": [
+          "artefato"
+        ],
+        "it-IT": [
+          "artefatt"
+        ],
+        "ru": [
+          "артефакт"
+        ],
+        "hi-IN": [
+          "आर्टिफ़ैक्ट",
+          "आर्टिफैक्ट"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "Artifact",
+        "zh-Hant": "成品",
+        "ja-JP": "Artifacts",
+        "ko-KR": "아티팩트",
+        "de-DE": "Artefakt",
+        "fr-FR": "artefact",
+        "es-ES": "artefacto",
+        "pt-BR": "artefato",
+        "it-IT": "artefatto",
+        "ru": "артефакт",
+        "hi-IN": "आर्टिफ़ैक्ट"
+      },
+      "note": "Handled differently per language: zh-Hans keeps Artifact, zh-Hant uses 成品, ja-JP keeps Artifacts, ko-KR transliterates as 아티팩트."
+    },
+    {
+      "id": "extension",
+      "category": "concept",
+      "en": "Extension",
+      "match": "\\bextensions?\\b",
+      "variants": {
+        "zh-Hans": [
+          "扩展程序",
+          "扩展",
+          "插件"
+        ],
+        "zh-Hant": [
+          "擴充功能",
+          "擴充程式"
+        ],
+        "ja-JP": [
+          "拡張機能"
+        ],
+        "ko-KR": [
+          "확장 프로그램"
+        ],
+        "de-DE": [
+          "erweiterung",
+          "extension"
+        ],
+        "fr-FR": [
+          "extension"
+        ],
+        "es-ES": [
+          "extensión",
+          "extensiones"
+        ],
+        "pt-BR": [
+          "extensão",
+          "extensões"
+        ],
+        "it-IT": [
+          "estension"
+        ],
+        "ru": [
+          "расширени"
+        ],
+        "hi-IN": [
+          "एक्सटेंशन"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "扩展",
+        "zh-Hant": "擴充功能",
+        "ja-JP": "拡張機能",
+        "ko-KR": "확장 프로그램",
+        "de-DE": "Erweiterung",
+        "fr-FR": "extension",
+        "es-ES": "extensión / extensiones",
+        "pt-BR": "extensão / extensões",
+        "it-IT": "estensione",
+        "ru": "расширение",
+        "hi-IN": "एक्सटेंशन"
+      },
+      "note": "Distinct from Plugin. zh-Hans: Extension = 扩展, Plugin = 插件; never use 插件 for Extension."
+    },
+    {
+      "id": "computer-use",
+      "category": "concept",
+      "en": "Computer use",
+      "match": "\\bcomputer use\\b",
+      "variants": {
+        "zh-Hans": [
+          "计算机使用",
+          "电脑操作"
+        ],
+        "zh-Hant": [
+          "電腦操作"
+        ],
+        "ja-JP": [
+          "コンピューター操作"
+        ],
+        "ko-KR": [
+          "컴퓨터 사용"
+        ],
+        "de-DE": [
+          "computernutzung",
+          "computersteuerung"
+        ],
+        "fr-FR": [
+          "utilisation de l’ordinateur",
+          "contrôle de l’ordinateur"
+        ],
+        "es-ES": [
+          "uso del ordenador",
+          "uso de la computadora",
+          "control del ordenador"
+        ],
+        "pt-BR": [
+          "uso do computador",
+          "controle do computador"
+        ],
+        "it-IT": [
+          "uso del computer"
+        ],
+        "ru": [
+          "использование компьютера",
+          "управление компьютером"
+        ],
+        "hi-IN": [
+          "कंप्यूटर उपयोग",
+          "कंप्यूटर का उपयोग"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "计算机使用",
+        "zh-Hant": "電腦操作",
+        "ja-JP": "コンピューター操作",
+        "ko-KR": "컴퓨터 사용",
+        "de-DE": "Computernutzung",
+        "fr-FR": "utilisation de l’ordinateur",
+        "es-ES": "uso del ordenador",
+        "pt-BR": "uso do computador",
+        "it-IT": "uso del computer",
+        "ru": "использование компьютера",
+        "hi-IN": "कंप्यूटर उपयोग"
+      },
+      "note": "zh-Hans mostly uses 计算机使用: 21 against 2 for 电脑操作."
+    },
+    {
+      "id": "quick-entry",
+      "category": "concept",
+      "en": "Quick Entry",
+      "match": "\\bQuick Entry\\b",
+      "variants": {
+        "zh-Hans": [
+          "快速输入",
+          "Quick Entry"
+        ],
+        "zh-Hant": [
+          "快速輸入",
+          "Quick Entry"
+        ],
+        "ja-JP": [
+          "クイック入力",
+          "Quick Entry"
+        ],
+        "ko-KR": [
+          "빠른 입력",
+          "Quick Entry"
+        ],
+        "de-DE": [
+          "quick entry",
+          "schnelleingabe"
+        ],
+        "fr-FR": [
+          "saisie rapide",
+          "quick entry"
+        ],
+        "es-ES": [
+          "entrada rápida",
+          "quick entry"
+        ],
+        "pt-BR": [
+          "quick entry",
+          "entrada rápida"
+        ],
+        "it-IT": [
+          "quick entry",
+          "inserimento rapido"
+        ],
+        "ru": [
+          "быстрого ввода",
+          "быстрый ввод",
+          "quick entry"
+        ],
+        "hi-IN": [
+          "quick entry",
+          "क्विक एंट्री"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "快速输入",
+        "zh-Hant": "快速輸入",
+        "ja-JP": "クイック入力",
+        "ko-KR": "빠른 입력",
+        "de-DE": "Quick Entry",
+        "fr-FR": "saisie rapide",
+        "es-ES": "entrada rápida",
+        "pt-BR": "Quick Entry",
+        "it-IT": "inserimento rapido",
+        "ru": "быстрый ввод / быстрого ввода",
+        "hi-IN": "Quick Entry"
+      },
+      "note": "Translated in menus and settings; some web strings still keep Quick Entry."
+    },
+    {
+      "id": "developer-mode",
+      "category": "concept",
+      "en": "Developer / Developer mode",
+      "match": "\\bdeveloper\\b",
+      "variants": {
+        "zh-Hans": [
+          "开发者"
+        ],
+        "zh-Hant": [
+          "開發人員",
+          "開發者"
+        ],
+        "ja-JP": [
+          "開発者"
+        ],
+        "ko-KR": [
+          "개발자"
+        ],
+        "de-DE": [
+          "entwicklermodus",
+          "entwickler-modus"
+        ],
+        "fr-FR": [
+          "mode développeur"
+        ],
+        "es-ES": [
+          "modo de desarrollador",
+          "modo desarrollador"
+        ],
+        "pt-BR": [
+          "modo de desenvolvedor",
+          "modo desenvolvedor"
+        ],
+        "it-IT": [
+          "modalità sviluppatore"
+        ],
+        "ru": [
+          "режим разработчика",
+          "режиме разработчика"
+        ],
+        "hi-IN": [
+          "डेवलपर मोड"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "开发者",
+        "zh-Hant": "開發人員",
+        "ja-JP": "開発者",
+        "ko-KR": "개발자",
+        "de-DE": "Entwicklermodus",
+        "fr-FR": "mode développeur",
+        "es-ES": "modo de desarrollador",
+        "pt-BR": "modo de desenvolvedor",
+        "it-IT": "modalità sviluppatore",
+        "ru": "режим разработчика",
+        "hi-IN": "डेवलपर मोड"
+      },
+      "note": ""
+    },
+    {
+      "id": "project",
+      "category": "concept",
+      "en": "Project",
+      "match": "\\bprojects?\\b",
+      "variants": {
+        "zh-Hans": [
+          "项目",
+          "工程"
+        ],
+        "de-DE": [
+          "projekt"
+        ],
+        "fr-FR": [
+          "projet"
+        ],
+        "es-ES": [
+          "proyecto"
+        ],
+        "pt-BR": [
+          "projeto"
+        ],
+        "it-IT": [
+          "progett"
+        ],
+        "ru": [
+          "проект"
+        ],
+        "hi-IN": [
+          "प्रोजेक्ट",
+          "परियोजना"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "项目",
+        "de-DE": "Projekt",
+        "fr-FR": "projet",
+        "es-ES": "proyecto",
+        "pt-BR": "projeto",
+        "it-IT": "progetto",
+        "ru": "проект",
+        "hi-IN": "प्रोजेक्ट"
+      },
+      "note": ""
+    },
+    {
+      "id": "memory",
+      "category": "concept",
+      "en": "Memory",
+      "match": "\\bmemory\\b",
+      "variants": {
+        "zh-Hans": [
+          "记忆",
+          "内存"
+        ],
+        "de-DE": [
+          "gedächtnis",
+          "erinnerung",
+          "speicher"
+        ],
+        "fr-FR": [
+          "mémoire",
+          "souvenir"
+        ],
+        "es-ES": [
+          "memoria",
+          "recuerdo"
+        ],
+        "pt-BR": [
+          "memória"
+        ],
+        "it-IT": [
+          "memoria"
+        ],
+        "ru": [
+          "памят"
+        ],
+        "hi-IN": [
+          "मेमोरी",
+          "स्मृति"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "记忆",
+        "de-DE": "Gedächtnis",
+        "fr-FR": "mémoire",
+        "es-ES": "memoria",
+        "pt-BR": "memória",
+        "it-IT": "memoria",
+        "ru": "память",
+        "hi-IN": "मेमोरी"
+      },
+      "note": "Claude’s memory feature. Hardware memory is a different word, e.g. zh-Hans 内存."
+    },
+    {
+      "id": "connector",
+      "category": "concept",
+      "en": "Connector",
+      "match": "\\bconnectors?\\b",
+      "variants": {
+        "zh-Hans": [
+          "连接器",
+          "连接"
+        ],
+        "de-DE": [
+          "connector",
+          "konnektor"
+        ],
+        "fr-FR": [
+          "connecteur",
+          "connector"
+        ],
+        "es-ES": [
+          "conector"
+        ],
+        "pt-BR": [
+          "conector"
+        ],
+        "it-IT": [
+          "connettor"
+        ],
+        "ru": [
+          "коннектор",
+          "соединител"
+        ],
+        "hi-IN": [
+          "कनेक्टर"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "连接器",
+        "de-DE": "Connector",
+        "fr-FR": "connecteur",
+        "es-ES": "conector",
+        "pt-BR": "conector",
+        "it-IT": "connettore",
+        "ru": "коннектор",
+        "hi-IN": "कनेक्टर"
+      },
+      "note": ""
+    },
+    {
+      "id": "plugin",
+      "category": "concept",
+      "en": "Plugin",
+      "match": "\\bplugins?\\b",
+      "variants": {
+        "zh-Hans": [
+          "插件",
+          "Plugin"
+        ],
+        "de-DE": [
+          "plugin",
+          "plug-in"
+        ],
+        "fr-FR": [
+          "plugin",
+          "plug-in"
+        ],
+        "es-ES": [
+          "plugin",
+          "complemento"
+        ],
+        "pt-BR": [
+          "plugin",
+          "complemento"
+        ],
+        "it-IT": [
+          "plugin"
+        ],
+        "ru": [
+          "плагин"
+        ],
+        "hi-IN": [
+          "प्लगइन"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "插件",
+        "de-DE": "Plugin",
+        "fr-FR": "plugin",
+        "es-ES": "plugin",
+        "pt-BR": "plugin",
+        "it-IT": "plugin",
+        "ru": "плагин",
+        "hi-IN": "प्लगइन"
+      },
+      "note": "Distinct from Extension. zh-Hans: Plugin = 插件, Extension = 扩展."
+    },
+    {
+      "id": "message",
+      "category": "concept",
+      "en": "Message",
+      "match": "\\bmessages?\\b",
+      "variants": {
+        "zh-Hans": [
+          "消息",
+          "信息",
+          "讯息"
+        ],
+        "de-DE": [
+          "nachricht",
+          "meldung"
+        ],
+        "fr-FR": [
+          "message"
+        ],
+        "es-ES": [
+          "mensaje"
+        ],
+        "pt-BR": [
+          "mensage"
+        ],
+        "it-IT": [
+          "messagg"
+        ],
+        "ru": [
+          "сообщени"
+        ],
+        "hi-IN": [
+          "मैसेज",
+          "संदेश"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "消息",
+        "de-DE": "Nachricht",
+        "fr-FR": "message",
+        "es-ES": "mensaje",
+        "pt-BR": "mensagem",
+        "it-IT": "messaggio",
+        "ru": "сообщение",
+        "hi-IN": "मैसेज"
+      },
+      "note": ""
+    },
+    {
+      "id": "incognito",
+      "category": "concept",
+      "en": "Incognito",
+      "match": "\\bincognito\\b",
+      "variants": {
+        "zh-Hans": [
+          "无痕模式",
+          "无痕",
+          "隐身"
+        ],
+        "de-DE": [
+          "inkognito"
+        ],
+        "fr-FR": [
+          "incognito",
+          "navigation privée"
+        ],
+        "es-ES": [
+          "incógnito",
+          "privad"
+        ],
+        "pt-BR": [
+          "anônim",
+          "incógnit"
+        ],
+        "it-IT": [
+          "incognito"
+        ],
+        "ru": [
+          "инкогнито"
+        ],
+        "hi-IN": [
+          "इनकॉग्निटो",
+          "गुप्त"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "无痕模式（incognito chat → 无痕对话）",
+        "de-DE": "Inkognito",
+        "fr-FR": "incognito",
+        "es-ES": "incógnito",
+        "pt-BR": "anônimo",
+        "it-IT": "incognito",
+        "ru": "инкогнито",
+        "hi-IN": "इनकॉग्निटो"
+      },
+      "note": ""
+    },
+    {
+      "id": "style",
+      "category": "concept",
+      "en": "Style",
+      "match": "\\bstyles?\\b",
+      "variants": {
+        "zh-Hans": [
+          "风格",
+          "样式"
+        ],
+        "de-DE": [
+          "stil"
+        ],
+        "fr-FR": [
+          "style"
+        ],
+        "es-ES": [
+          "estilo"
+        ],
+        "pt-BR": [
+          "estilo"
+        ],
+        "it-IT": [
+          "stile"
+        ],
+        "ru": [
+          "стил"
+        ],
+        "hi-IN": [
+          "स्टाइल",
+          "शैली"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "风格（output style → 输出风格）",
+        "de-DE": "Stil",
+        "fr-FR": "style",
+        "es-ES": "estilo",
+        "pt-BR": "estilo",
+        "it-IT": "stile",
+        "ru": "стиль",
+        "hi-IN": "स्टाइल"
+      },
+      "note": "zh-Hans: Claude’s response style = 风格, output style = 输出风格. Official copy uses 样式 for creating custom styles about half the time."
+    },
+    {
+      "id": "routine",
+      "category": "concept",
+      "en": "Routine",
+      "match": "\\broutines?\\b",
+      "variants": {
+        "zh-Hans": [
+          "例程",
+          "例行任务"
+        ],
+        "de-DE": [
+          "routine"
+        ],
+        "fr-FR": [
+          "routine"
+        ],
+        "es-ES": [
+          "rutina"
+        ],
+        "pt-BR": [
+          "rotina"
+        ],
+        "it-IT": [
+          "routine"
+        ],
+        "ru": [
+          "процедур",
+          "рутин"
+        ],
+        "hi-IN": [
+          "रूटीन",
+          "दिनचर्या"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "例程",
+        "de-DE": "Routine",
+        "fr-FR": "routine",
+        "es-ES": "rutina",
+        "pt-BR": "rotina",
+        "it-IT": "routine",
+        "ru": "процедура",
+        "hi-IN": "रूटीन"
+      },
+      "note": "zh-Hans mixes 例程 and 例行任务; 例程 is the majority."
+    },
+    {
+      "id": "scheduled-task",
+      "category": "concept",
+      "en": "Scheduled task",
+      "match": "\\bscheduled tasks?\\b",
+      "variants": {
+        "zh-Hans": [
+          "定时任务",
+          "计划任务"
+        ],
+        "de-DE": [
+          "geplante aufgabe",
+          "geplanten aufgabe",
+          "terminierte aufgabe"
+        ],
+        "fr-FR": [
+          "tâche planifiée",
+          "tâches planifiées",
+          "tâche programmée"
+        ],
+        "es-ES": [
+          "tarea programada",
+          "tareas programadas",
+          "tarea planificada"
+        ],
+        "pt-BR": [
+          "tarefa agendada",
+          "tarefas agendadas",
+          "tarefa programada"
+        ],
+        "it-IT": [
+          "attività pianificat",
+          "attività programmat"
+        ],
+        "ru": [
+          "запланированн"
+        ],
+        "hi-IN": [
+          "शेड्यूल किया गया टास्क",
+          "शेड्यूल किए गए टास्क",
+          "निर्धारित कार्य"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "定时任务",
+        "de-DE": "geplante Aufgabe",
+        "fr-FR": "tâche planifiée / tâches planifiées",
+        "es-ES": "tarea programada / tareas programadas",
+        "pt-BR": "tarefa agendada / tarefas agendadas",
+        "it-IT": "attività pianificata",
+        "ru": "запланированная задача",
+        "hi-IN": "शेड्यूल किया गया टास्क / शेड्यूल किए गए टास्क"
+      },
+      "note": ""
+    },
+    {
+      "id": "integration",
+      "category": "concept",
+      "en": "Integration",
+      "match": "\\bintegrations?\\b",
+      "variants": {
+        "zh-Hans": [
+          "集成"
+        ],
+        "de-DE": [
+          "integration"
+        ],
+        "fr-FR": [
+          "intégration"
+        ],
+        "es-ES": [
+          "integración",
+          "integraciones"
+        ],
+        "pt-BR": [
+          "integração",
+          "integrações"
+        ],
+        "it-IT": [
+          "integrazion"
+        ],
+        "ru": [
+          "интеграци"
+        ],
+        "hi-IN": [
+          "इंटीग्रेशन",
+          "एकीकरण"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "集成",
+        "de-DE": "Integration",
+        "fr-FR": "intégration",
+        "es-ES": "integración / integraciones",
+        "pt-BR": "integração / integrações",
+        "it-IT": "integrazione",
+        "ru": "интеграция",
+        "hi-IN": "इंटीग्रेशन"
+      },
+      "note": ""
+    },
+    {
+      "id": "voice-mode",
+      "category": "concept",
+      "en": "Voice mode",
+      "match": "\\bvoice mode\\b",
+      "variants": {
+        "zh-Hans": [
+          "语音模式"
+        ],
+        "de-DE": [
+          "sprachmodus"
+        ],
+        "fr-FR": [
+          "mode vocal",
+          "mode voix"
+        ],
+        "es-ES": [
+          "modo de voz",
+          "modo voz"
+        ],
+        "pt-BR": [
+          "modo de voz"
+        ],
+        "it-IT": [
+          "modalità vocale"
+        ],
+        "ru": [
+          "голосов"
+        ],
+        "hi-IN": [
+          "वॉइस मोड"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "语音模式",
+        "de-DE": "Sprachmodus",
+        "fr-FR": "mode vocal",
+        "es-ES": "modo de voz",
+        "pt-BR": "modo de voz",
+        "it-IT": "modalità vocale",
+        "ru": "голосовой режим",
+        "hi-IN": "वॉइस मोड"
+      },
+      "note": ""
+    },
+    {
+      "id": "knowledge",
+      "category": "concept",
+      "en": "Knowledge (project knowledge)",
+      "match": "\\bknowledge\\b",
+      "variants": {
+        "zh-Hans": [
+          "知识库",
+          "知识"
+        ],
+        "de-DE": [
+          "wissen",
+          "wissensdatenbank"
+        ],
+        "fr-FR": [
+          "connaissance",
+          "base de connaissances"
+        ],
+        "es-ES": [
+          "conocimiento",
+          "base de conocimiento"
+        ],
+        "pt-BR": [
+          "conhecimento",
+          "base de conhecimento"
+        ],
+        "it-IT": [
+          "knowledge",
+          "conoscenz"
+        ],
+        "ru": [
+          "знани"
+        ],
+        "hi-IN": [
+          "ज्ञान",
+          "नॉलेज"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "知识（knowledge base → 知识库）",
+        "de-DE": "Wissen",
+        "fr-FR": "connaissances",
+        "es-ES": "conocimiento",
+        "pt-BR": "conhecimento",
+        "it-IT": "conoscenze",
+        "ru": "знания",
+        "hi-IN": "ज्ञान"
+      },
+      "note": ""
+    },
+    {
+      "id": "model",
+      "category": "ai",
+      "en": "Model",
+      "match": "\\bmodels?\\b",
+      "variants": {
+        "zh-Hans": [
+          "模型"
+        ],
+        "zh-Hant": [
+          "模型"
+        ],
+        "ja-JP": [
+          "モデル"
+        ],
+        "ko-KR": [
+          "모델"
+        ],
+        "de-DE": [
+          "modell"
+        ],
+        "fr-FR": [
+          "modèle"
+        ],
+        "es-ES": [
+          "modelo"
+        ],
+        "pt-BR": [
+          "modelo"
+        ],
+        "it-IT": [
+          "modell"
+        ],
+        "ru": [
+          "модел"
+        ],
+        "hi-IN": [
+          "मॉडल"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "模型",
+        "zh-Hant": "模型",
+        "ja-JP": "モデル",
+        "ko-KR": "모델",
+        "de-DE": "Modell",
+        "fr-FR": "modèle",
+        "es-ES": "modelo",
+        "pt-BR": "modelo",
+        "it-IT": "modello",
+        "ru": "модель",
+        "hi-IN": "मॉडल"
+      },
+      "note": "Never translate model names such as Opus, Sonnet and Haiku."
+    },
+    {
+      "id": "turn",
+      "category": "ai",
+      "en": "Turn",
+      "match": "\\bturns?\\b(?! (on|off|it|this))",
+      "variants": {
+        "zh-Hans": [
+          "轮次",
+          "回合",
+          "轮"
+        ],
+        "zh-Hant": [
+          "回合"
+        ],
+        "ja-JP": [
+          "ターン"
+        ],
+        "ko-KR": [
+          "턴"
+        ],
+        "de-DE": [],
+        "fr-FR": [],
+        "es-ES": [],
+        "pt-BR": [],
+        "it-IT": [],
+        "ru": [],
+        "hi-IN": []
+      },
+      "recommended": {
+        "zh-Hans": "轮（轮次）",
+        "zh-Hant": "回合",
+        "ja-JP": "ターン",
+        "ko-KR": "턴",
+        "de-DE": null,
+        "fr-FR": null,
+        "es-ES": null,
+        "pt-BR": null,
+        "it-IT": null,
+        "ru": null,
+        "hi-IN": null
+      },
+      "note": "zh-Hans uses 轮: 轮到您了, 上一轮失败, 轮次失败."
+    },
+    {
+      "id": "agent",
+      "category": "ai",
+      "en": "Agent",
+      "match": "\\bagents?\\b",
+      "variants": {
+        "zh-Hans": [
+          "智能体",
+          "代理",
+          "Agent"
+        ],
+        "de-DE": [
+          "agent"
+        ],
+        "fr-FR": [
+          "agent"
+        ],
+        "es-ES": [
+          "agente"
+        ],
+        "pt-BR": [
+          "agente"
+        ],
+        "it-IT": [
+          "agent"
+        ],
+        "ru": [
+          "агент"
+        ],
+        "hi-IN": [
+          "एजेंट"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "智能体",
+        "de-DE": "Agent",
+        "fr-FR": "agent",
+        "es-ES": "agente",
+        "pt-BR": "agente",
+        "it-IT": "agente",
+        "ru": "агент",
+        "hi-IN": "एजेंट"
+      },
+      "note": "zh-Hans: AI agent = 智能体, never 代理. 代理 is used only for system components such as the SSH agent."
+    },
+    {
+      "id": "research",
+      "category": "ai",
+      "en": "Research",
+      "match": "\\bresearch\\b",
+      "variants": {
+        "zh-Hans": [
+          "研究",
+          "调研"
+        ],
+        "de-DE": [
+          "recherche",
+          "forschung"
+        ],
+        "fr-FR": [
+          "recherche"
+        ],
+        "es-ES": [
+          "investigación",
+          "investigaciones"
+        ],
+        "pt-BR": [
+          "pesquis"
+        ],
+        "it-IT": [
+          "ricerca"
+        ],
+        "ru": [
+          "исследовани"
+        ],
+        "hi-IN": [
+          "रिसर्च",
+          "शोध"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "研究",
+        "de-DE": "Recherche",
+        "fr-FR": "recherche",
+        "es-ES": "investigación",
+        "pt-BR": "pesquisa",
+        "it-IT": "ricerca",
+        "ru": "исследование",
+        "hi-IN": "रिसर्च"
+      },
+      "note": ""
+    },
+    {
+      "id": "thinking",
+      "category": "ai",
+      "en": "Thinking / Extended thinking",
+      "match": "\\bthinking\\b",
+      "variants": {
+        "zh-Hans": [
+          "思考",
+          "推理"
+        ],
+        "de-DE": [
+          "denk",
+          "überleg"
+        ],
+        "fr-FR": [
+          "réflexion",
+          "raisonnement"
+        ],
+        "es-ES": [
+          "pensa",
+          "razonamiento"
+        ],
+        "pt-BR": [
+          "raciocín",
+          "pensa"
+        ],
+        "it-IT": [
+          "ragionament",
+          "pensier"
+        ],
+        "ru": [
+          "размышлени",
+          "мышлени"
+        ],
+        "hi-IN": [
+          "सोच",
+          "विचार"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "思考（进行中 → 思考中…）",
+        "de-DE": "Denken",
+        "fr-FR": "réflexion",
+        "es-ES": "pensamiento",
+        "pt-BR": "pensando",
+        "it-IT": "ragionamento",
+        "ru": "размышление",
+        "hi-IN": "सोच रहा है"
+      },
+      "note": ""
+    },
+    {
+      "id": "prompt",
+      "category": "ai",
+      "en": "Prompt",
+      "match": "\\bprompts?\\b",
+      "variants": {
+        "zh-Hans": [
+          "提示词",
+          "提示"
+        ],
+        "de-DE": [
+          "prompt",
+          "eingabeaufforderung"
+        ],
+        "fr-FR": [
+          "prompt",
+          "invite"
+        ],
+        "es-ES": [
+          "prompt",
+          "instrucción",
+          "indicación"
+        ],
+        "pt-BR": [
+          "prompt",
+          "instrução"
+        ],
+        "it-IT": [
+          "prompt"
+        ],
+        "ru": [
+          "промпт",
+          "запрос"
+        ],
+        "hi-IN": [
+          "प्रॉम्प्ट",
+          "संकेत"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "提示词",
+        "de-DE": "Prompt",
+        "fr-FR": "prompt",
+        "es-ES": "prompt",
+        "pt-BR": "prompt",
+        "it-IT": "prompt",
+        "ru": "промпт",
+        "hi-IN": "प्रॉम्प्ट"
+      },
+      "note": ""
+    },
+    {
+      "id": "context",
+      "category": "ai",
+      "en": "Context / Context window",
+      "match": "\\bcontext\\b",
+      "variants": {
+        "zh-Hans": [
+          "上下文",
+          "语境"
+        ],
+        "de-DE": [
+          "kontext"
+        ],
+        "fr-FR": [
+          "contexte"
+        ],
+        "es-ES": [
+          "contexto"
+        ],
+        "pt-BR": [
+          "contexto"
+        ],
+        "it-IT": [
+          "contesto"
+        ],
+        "ru": [
+          "контекст"
+        ],
+        "hi-IN": [
+          "संदर्भ",
+          "कॉन्टेक्स्ट"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "上下文",
+        "de-DE": "Kontext",
+        "fr-FR": "contexte",
+        "es-ES": "contexto",
+        "pt-BR": "contexto",
+        "it-IT": "contesto",
+        "ru": "контекст",
+        "hi-IN": "संदर्भ"
+      },
+      "note": ""
+    },
+    {
+      "id": "token-llm",
+      "category": "ai",
+      "en": "Token",
+      "match": "\\btokens?\\b",
+      "variants": {
+        "zh-Hans": [
+          "令牌",
+          "Token",
+          "token"
+        ],
+        "de-DE": [
+          "token"
+        ],
+        "fr-FR": [
+          "jeton",
+          "token"
+        ],
+        "es-ES": [
+          "token"
+        ],
+        "pt-BR": [
+          "token"
+        ],
+        "it-IT": [
+          "token"
+        ],
+        "ru": [
+          "токен"
+        ],
+        "hi-IN": [
+          "टोकन"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "token（认证令牌 → 令牌）",
+        "de-DE": "Token",
+        "fr-FR": "token",
+        "es-ES": "token",
+        "pt-BR": "token",
+        "it-IT": "token",
+        "ru": "токен",
+        "hi-IN": "टोकन"
+      },
+      "note": "As an LLM unit, keep lowercase token, e.g. zh-Hans “{count} 个 token”. Authentication tokens are translated, e.g. zh-Hans 令牌."
+    },
+    {
+      "id": "compact",
+      "category": "ai",
+      "en": "Compact",
+      "match": "\\bcompact",
+      "variants": {
+        "zh-Hans": [
+          "压缩",
+          "精简"
+        ],
+        "de-DE": [
+          "komprimier",
+          "kompaktier",
+          "verdicht"
+        ],
+        "fr-FR": [
+          "compact",
+          "compress"
+        ],
+        "es-ES": [
+          "compact",
+          "comprim"
+        ],
+        "pt-BR": [
+          "compact",
+          "comprim"
+        ],
+        "it-IT": [
+          "compatt",
+          "comprim"
+        ],
+        "ru": [
+          "сжат",
+          "компакт"
+        ],
+        "hi-IN": [
+          "कॉम्पैक्ट",
+          "संक्षिप्त"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "压缩",
+        "de-DE": "komprimieren",
+        "fr-FR": "compacter",
+        "es-ES": "compactar",
+        "pt-BR": "compactar",
+        "it-IT": "compattare",
+        "ru": "сжатие",
+        "hi-IN": "कॉम्पैक्ट"
+      },
+      "note": ""
+    },
+    {
+      "id": "tool",
+      "category": "ai",
+      "en": "Tool",
+      "match": "\\btools?\\b",
+      "variants": {
+        "zh-Hans": [
+          "工具"
+        ],
+        "de-DE": [
+          "tool",
+          "werkzeug"
+        ],
+        "fr-FR": [
+          "outil"
+        ],
+        "es-ES": [
+          "herramienta"
+        ],
+        "pt-BR": [
+          "ferramenta"
+        ],
+        "it-IT": [
+          "strument",
+          "tool"
+        ],
+        "ru": [
+          "инструмент"
+        ],
+        "hi-IN": [
+          "टूल",
+          "उपकरण"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "工具",
+        "de-DE": "Tool",
+        "fr-FR": "outil",
+        "es-ES": "herramienta",
+        "pt-BR": "ferramenta",
+        "it-IT": "strumento",
+        "ru": "инструмент",
+        "hi-IN": "टूल"
+      },
+      "note": ""
+    },
+    {
+      "id": "web-search",
+      "category": "ai",
+      "en": "Web search",
+      "match": "\\bweb search\\b",
+      "variants": {
+        "zh-Hans": [
+          "网页搜索",
+          "网络搜索",
+          "联网搜索"
+        ],
+        "de-DE": [
+          "websuche",
+          "internetsuche"
+        ],
+        "fr-FR": [
+          "recherche web",
+          "recherche sur le web",
+          "recherche internet"
+        ],
+        "es-ES": [
+          "búsqueda web",
+          "búsqueda en internet"
+        ],
+        "pt-BR": [
+          "pesquisa na web",
+          "busca na web",
+          "pesquisa web"
+        ],
+        "it-IT": [
+          "ricerca web",
+          "ricerca sul web"
+        ],
+        "ru": [
+          "веб-поиск",
+          "поиск в интернете"
+        ],
+        "hi-IN": [
+          "वेब सर्च",
+          "वेब खोज"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "网页搜索",
+        "de-DE": "Websuche",
+        "fr-FR": "recherche web",
+        "es-ES": "búsqueda web",
+        "pt-BR": "pesquisa na web",
+        "it-IT": "ricerca web",
+        "ru": "веб-поиск",
+        "hi-IN": "वेब सर्च"
+      },
+      "note": ""
+    },
+    {
+      "id": "plan-mode",
+      "category": "ai",
+      "en": "Plan mode",
+      "match": "\\bplan mode\\b",
+      "variants": {
+        "zh-Hans": [
+          "计划模式",
+          "规划模式"
+        ],
+        "de-DE": [
+          "planungsmodus",
+          "plan-modus"
+        ],
+        "fr-FR": [
+          "mode plan",
+          "mode planification"
+        ],
+        "es-ES": [
+          "modo de planificación",
+          "modo plan"
+        ],
+        "pt-BR": [
+          "modo de planejamento",
+          "modo plano"
+        ],
+        "it-IT": [
+          "modalità piano",
+          "modalità pianificazione"
+        ],
+        "ru": [
+          "режим планирования",
+          "режиме планирования"
+        ],
+        "hi-IN": [
+          "प्लान मोड",
+          "योजना मोड"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "计划模式",
+        "de-DE": "Planungsmodus",
+        "fr-FR": "mode plan",
+        "es-ES": "modo de planificación",
+        "pt-BR": "modo de planejamento",
+        "it-IT": "modalità piano",
+        "ru": "режим планирования",
+        "hi-IN": "प्लान मोड"
+      },
+      "note": ""
+    },
+    {
+      "id": "auto-mode",
+      "category": "ai",
+      "en": "Auto mode",
+      "match": "\\bauto mode\\b",
+      "variants": {
+        "zh-Hans": [
+          "自动模式"
+        ],
+        "de-DE": [
+          "auto-modus",
+          "automatikmodus"
+        ],
+        "fr-FR": [
+          "mode automatique",
+          "mode auto"
+        ],
+        "es-ES": [
+          "modo automático",
+          "modo auto"
+        ],
+        "pt-BR": [
+          "modo automático"
+        ],
+        "it-IT": [
+          "modalità automatica",
+          "modalità auto"
+        ],
+        "ru": [
+          "автоматическ",
+          "авторежим"
+        ],
+        "hi-IN": [
+          "ऑटो मोड"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "自动模式",
+        "de-DE": "Auto-Modus",
+        "fr-FR": "mode automatique",
+        "es-ES": "modo automático",
+        "pt-BR": "modo automático",
+        "it-IT": "modalità automatica",
+        "ru": "автоматический режим",
+        "hi-IN": "ऑटो मोड"
+      },
+      "note": ""
+    },
+    {
+      "id": "sandbox",
+      "category": "ai",
+      "en": "Sandbox",
+      "match": "\\bsandbox\\b",
+      "variants": {
+        "zh-Hans": [
+          "沙盒",
+          "沙箱"
+        ],
+        "de-DE": [
+          "sandbox"
+        ],
+        "fr-FR": [
+          "bac à sable",
+          "sandbox"
+        ],
+        "es-ES": [
+          "sandbox",
+          "entorno aislado"
+        ],
+        "pt-BR": [
+          "sandbox",
+          "ambiente isolado"
+        ],
+        "it-IT": [
+          "sandbox"
+        ],
+        "ru": [
+          "песочниц",
+          "sandbox"
+        ],
+        "hi-IN": [
+          "सैंडबॉक्स"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "沙盒",
+        "de-DE": "Sandbox",
+        "fr-FR": "bac à sable",
+        "es-ES": "sandbox",
+        "pt-BR": "sandbox",
+        "it-IT": "sandbox",
+        "ru": "песочница",
+        "hi-IN": "सैंडबॉक्स"
+      },
+      "note": ""
+    },
+    {
+      "id": "folder",
+      "category": "filesystem",
+      "en": "Folder",
+      "match": "\\bfolders?\\b",
+      "variants": {
+        "zh-Hans": [
+          "文件夹",
+          "目录"
+        ],
+        "zh-Hant": [
+          "資料夾"
+        ],
+        "ja-JP": [
+          "フォルダ",
+          "フォルダー"
+        ],
+        "ko-KR": [
+          "폴더"
+        ],
+        "de-DE": [
+          "ordner",
+          "verzeichnis"
+        ],
+        "fr-FR": [
+          "dossier",
+          "répertoire"
+        ],
+        "es-ES": [
+          "carpeta",
+          "directorio"
+        ],
+        "pt-BR": [
+          "pasta",
+          "diretório"
+        ],
+        "it-IT": [
+          "cartell",
+          "directory"
+        ],
+        "ru": [
+          "папк",
+          "каталог"
+        ],
+        "hi-IN": [
+          "फ़ोल्डर",
+          "फोल्डर"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "文件夹",
+        "zh-Hant": "資料夾",
+        "ja-JP": "フォルダ",
+        "ko-KR": "폴더",
+        "de-DE": "Ordner",
+        "fr-FR": "dossier",
+        "es-ES": "carpeta",
+        "pt-BR": "pasta",
+        "it-IT": "cartella",
+        "ru": "папка",
+        "hi-IN": "फ़ोल्डर"
+      },
+      "note": "ja-JP mixes フォルダ and フォルダー; フォルダ is the majority. Translate directory separately, e.g. zh-Hans 目录."
+    },
+    {
+      "id": "workspace",
+      "category": "filesystem",
+      "en": "Workspace",
+      "match": "\\bworkspaces?\\b",
+      "variants": {
+        "zh-Hans": [
+          "工作区",
+          "工作空间"
+        ],
+        "zh-Hant": [
+          "工作區"
+        ],
+        "ja-JP": [
+          "ワークスペース"
+        ],
+        "ko-KR": [
+          "작업 공간",
+          "워크스페이스"
+        ],
+        "de-DE": [
+          "workspace",
+          "arbeitsbereich"
+        ],
+        "fr-FR": [
+          "espace de travail",
+          "workspace"
+        ],
+        "es-ES": [
+          "espacio de trabajo",
+          "workspace"
+        ],
+        "pt-BR": [
+          "workspace",
+          "espaço de trabalho"
+        ],
+        "it-IT": [
+          "workspace",
+          "area di lavoro",
+          "spazio di lavoro"
+        ],
+        "ru": [
+          "рабочее пространство",
+          "рабочего пространства",
+          "workspace"
+        ],
+        "hi-IN": [
+          "वर्कस्पेस",
+          "कार्यस्थान"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "工作区",
+        "zh-Hant": "工作區",
+        "ja-JP": "ワークスペース",
+        "ko-KR": "워크스페이스",
+        "de-DE": "Workspace",
+        "fr-FR": "espace de travail",
+        "es-ES": "espacio de trabajo",
+        "pt-BR": "workspace",
+        "it-IT": "workspace",
+        "ru": "рабочее пространство / рабочего пространства",
+        "hi-IN": "वर्कस्पेस"
+      },
+      "note": ""
+    },
+    {
+      "id": "repository",
+      "category": "filesystem",
+      "en": "Repository",
+      "match": "\\brepositor(y|ies)\\b",
+      "variants": {
+        "zh-Hans": [
+          "仓库",
+          "存储库"
+        ],
+        "zh-Hant": [
+          "存放庫",
+          "儲存庫"
+        ],
+        "ja-JP": [
+          "リポジトリ"
+        ],
+        "ko-KR": [
+          "저장소",
+          "리포지토리"
+        ],
+        "de-DE": [
+          "repository",
+          "repositor"
+        ],
+        "fr-FR": [
+          "dépôt",
+          "référentiel",
+          "repository"
+        ],
+        "es-ES": [
+          "repositorio"
+        ],
+        "pt-BR": [
+          "repositório"
+        ],
+        "it-IT": [
+          "repository"
+        ],
+        "ru": [
+          "репозитори"
+        ],
+        "hi-IN": [
+          "रिपॉज़िटरी",
+          "रिपॉजिटरी",
+          "भंडार"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "仓库",
+        "zh-Hant": "儲存庫",
+        "ja-JP": "リポジトリ",
+        "ko-KR": "저장소",
+        "de-DE": "Repository",
+        "fr-FR": "dépôt",
+        "es-ES": "repositorio",
+        "pt-BR": "repositório",
+        "it-IT": "repository",
+        "ru": "репозиторий",
+        "hi-IN": "रिपॉज़िटरी"
+      },
+      "note": ""
+    },
+    {
+      "id": "worktree",
+      "category": "filesystem",
+      "en": "Worktree",
+      "match": "\\bworktrees?\\b",
+      "variants": {
+        "zh-Hans": [
+          "工作树",
+          "worktree"
+        ],
+        "zh-Hant": [
+          "工作樹"
+        ],
+        "ja-JP": [
+          "ワークツリー"
+        ],
+        "ko-KR": [
+          "워크트리"
+        ],
+        "de-DE": [
+          "worktree",
+          "arbeitsbaum"
+        ],
+        "fr-FR": [
+          "worktree",
+          "arbre de travail"
+        ],
+        "es-ES": [
+          "worktree",
+          "árbol de trabajo"
+        ],
+        "pt-BR": [
+          "worktree"
+        ],
+        "it-IT": [
+          "worktree"
+        ],
+        "ru": [
+          "рабочее дерево",
+          "рабочего дерева",
+          "worktree"
+        ],
+        "hi-IN": [
+          "वर्कट्री"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "工作树",
+        "zh-Hant": "工作樹",
+        "ja-JP": "ワークツリー",
+        "ko-KR": "워크트리",
+        "de-DE": "Worktree",
+        "fr-FR": "worktree",
+        "es-ES": "worktree",
+        "pt-BR": "worktree",
+        "it-IT": "worktree",
+        "ru": "рабочее дерево / рабочего дерева",
+        "hi-IN": "वर्कट्री"
+      },
+      "note": "The git worktree concept."
+    },
+    {
+      "id": "git-origin",
+      "category": "filesystem",
+      "en": "Git origin",
+      "match": "\\bGit origins?\\b",
+      "variants": {
+        "zh-Hans": [
+          "Git 源",
+          "Git origin"
+        ],
+        "zh-Hant": [
+          "Git 來源",
+          "Git origin"
+        ],
+        "ja-JP": [
+          "Git オリジン"
+        ],
+        "ko-KR": [
+          "Git origin",
+          "Git 원본",
+          "Git 원격 저장소"
+        ],
+        "de-DE": [
+          "git-origin"
+        ],
+        "fr-FR": [
+          "origine git",
+          "origines git"
+        ],
+        "es-ES": [
+          "origen de git",
+          "orígenes de git"
+        ],
+        "pt-BR": [
+          "origem do git",
+          "origens do git",
+          "origens git"
+        ],
+        "it-IT": [
+          "origin git",
+          "origine git"
+        ],
+        "ru": [
+          "git-источник"
+        ],
+        "hi-IN": [
+          "ऑरिजिन"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "Git 源",
+        "zh-Hant": "Git 來源",
+        "ja-JP": "Git オリジン",
+        "ko-KR": "Git origin",
+        "de-DE": "Git-Origin",
+        "fr-FR": "origine Git",
+        "es-ES": "origen de Git",
+        "pt-BR": "origem do Git",
+        "it-IT": "origin Git",
+        "ru": "Git-источник",
+        "hi-IN": "Git ऑरिजिन"
+      },
+      "note": "Official translations are inconsistent; the recommendation follows the majority."
+    },
+    {
+      "id": "branch",
+      "category": "filesystem",
+      "en": "Branch",
+      "match": "\\bbranch(es)?\\b",
+      "variants": {
+        "zh-Hans": [
+          "分支"
+        ],
+        "de-DE": [
+          "branch",
+          "zweig"
+        ],
+        "fr-FR": [
+          "branche"
+        ],
+        "es-ES": [
+          "rama"
+        ],
+        "pt-BR": [
+          "branch",
+          "ramificação"
+        ],
+        "it-IT": [
+          "branch",
+          "ramo"
+        ],
+        "ru": [
+          "ветк",
+          "бранч"
+        ],
+        "hi-IN": [
+          "ब्रांच",
+          "शाखा"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "分支",
+        "de-DE": "Branch",
+        "fr-FR": "branche",
+        "es-ES": "rama",
+        "pt-BR": "branch",
+        "it-IT": "branch",
+        "ru": "ветка",
+        "hi-IN": "ब्रांच"
+      },
+      "note": ""
+    },
+    {
+      "id": "pull-request",
+      "category": "filesystem",
+      "en": "Pull request",
+      "match": "\\bpull requests?\\b",
+      "variants": {
+        "zh-Hans": [
+          "拉取请求",
+          "PR"
+        ],
+        "de-DE": [
+          "pull request",
+          "pull-request"
+        ],
+        "fr-FR": [
+          "pull request",
+          "demande de tirage",
+          "demande de fusion"
+        ],
+        "es-ES": [
+          "pull request",
+          "solicitud de extracción"
+        ],
+        "pt-BR": [
+          "pull request"
+        ],
+        "it-IT": [
+          "pull request"
+        ],
+        "ru": [
+          "пул-реквест",
+          "pull request",
+          "запрос на слияние"
+        ],
+        "hi-IN": [
+          "पुल रिक्वेस्ट"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "拉取请求",
+        "de-DE": "Pull Request",
+        "fr-FR": "pull request",
+        "es-ES": "pull request",
+        "pt-BR": "pull request",
+        "it-IT": "pull request",
+        "ru": "пул-реквест",
+        "hi-IN": "पुल रिक्वेस्ट"
+      },
+      "note": ""
+    },
+    {
+      "id": "sign-in",
+      "category": "account",
+      "en": "Sign in / Log in",
+      "match": "\\b(sign|log)(ged)? ?in\\b",
+      "variants": {
+        "zh-Hans": [
+          "登录"
+        ],
+        "zh-Hant": [
+          "登入"
+        ],
+        "ja-JP": [
+          "サインイン",
+          "ログイン"
+        ],
+        "ko-KR": [
+          "로그인"
+        ],
+        "de-DE": [
+          "anmeld",
+          "melde dich",
+          "einlogg"
+        ],
+        "fr-FR": [
+          "connectez-vous",
+          "se connecter",
+          "s’identifier",
+          "ouvrir une session"
+        ],
+        "es-ES": [
+          "iniciar sesión",
+          "inicia sesión",
+          "acceder"
+        ],
+        "pt-BR": [
+          "login",
+          "entrar"
+        ],
+        "it-IT": [
+          "acced",
+          "login"
+        ],
+        "ru": [
+          "войд",
+          "войти",
+          "авториз",
+          "залогин"
+        ],
+        "hi-IN": [
+          "साइन इन",
+          "लॉग इन"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "登录",
+        "zh-Hant": "登入",
+        "ja-JP": "サインイン",
+        "ko-KR": "로그인",
+        "de-DE": "anmelden / melde dich an",
+        "fr-FR": "se connecter / connectez-vous",
+        "es-ES": "iniciar sesión / inicia sesión",
+        "pt-BR": "fazer login",
+        "it-IT": "accedi",
+        "ru": "войти / войдите",
+        "hi-IN": "साइन इन"
+      },
+      "note": "ja-JP keeps the distinction: sign in = サインイン, log in = ログイン."
+    },
+    {
+      "id": "organization",
+      "category": "account",
+      "en": "Organization / Admin",
+      "match": "\\b(organization|admin(istrator)?)s?\\b",
+      "variants": {
+        "zh-Hans": [
+          "组织",
+          "管理员"
+        ],
+        "zh-Hant": [
+          "組織",
+          "管理員"
+        ],
+        "ja-JP": [
+          "組織",
+          "管理者"
+        ],
+        "ko-KR": [
+          "조직",
+          "관리자"
+        ],
+        "de-DE": [
+          "organisation",
+          "unternehmen"
+        ],
+        "fr-FR": [
+          "organisation",
+          "entreprise"
+        ],
+        "es-ES": [
+          "organización",
+          "organizaciones",
+          "empresa"
+        ],
+        "pt-BR": [
+          "organização",
+          "organizações",
+          "empresa"
+        ],
+        "it-IT": [
+          "organizzazion",
+          "azienda"
+        ],
+        "ru": [
+          "организаци"
+        ],
+        "hi-IN": [
+          "संगठन",
+          "ऑर्गनाइज़ेशन"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "组织 / 管理员",
+        "zh-Hant": "組織 / 管理員",
+        "ja-JP": "組織 / 管理者",
+        "ko-KR": "조직 / 관리자",
+        "de-DE": "Organisation",
+        "fr-FR": "organisation",
+        "es-ES": "organización",
+        "pt-BR": "organização",
+        "it-IT": "organizzazione",
+        "ru": "организация",
+        "hi-IN": "संगठन"
+      },
+      "note": ""
+    },
+    {
+      "id": "credentials",
+      "category": "account",
+      "en": "Credentials",
+      "match": "\\bcredentials?\\b",
+      "variants": {
+        "zh-Hans": [
+          "凭据",
+          "凭证"
+        ],
+        "zh-Hant": [
+          "憑證"
+        ],
+        "ja-JP": [
+          "認証情報"
+        ],
+        "ko-KR": [
+          "자격 증명"
+        ],
+        "de-DE": [
+          "anmeldedaten",
+          "zugangsdaten"
+        ],
+        "fr-FR": [
+          "identifiant",
+          "informations d’identification"
+        ],
+        "es-ES": [
+          "credencial"
+        ],
+        "pt-BR": [
+          "credencia"
+        ],
+        "it-IT": [
+          "credenzial"
+        ],
+        "ru": [
+          "учетные данные",
+          "учетных данных",
+          "учётные данные"
+        ],
+        "hi-IN": [
+          "क्रेडेंशियल",
+          "प्रमाण-पत्र"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "凭据",
+        "zh-Hant": "憑證",
+        "ja-JP": "認証情報",
+        "ko-KR": "자격 증명",
+        "de-DE": "Anmeldedaten",
+        "fr-FR": "identifiants",
+        "es-ES": "credenciales",
+        "pt-BR": "credenciais",
+        "it-IT": "credenziali",
+        "ru": "учетные данные / учетных данных",
+        "hi-IN": "क्रेडेंशियल"
+      },
+      "note": ""
+    },
+    {
+      "id": "permission",
+      "category": "account",
+      "en": "Permission",
+      "match": "\\bpermissions?\\b",
+      "variants": {
+        "zh-Hans": [
+          "权限",
+          "许可"
+        ],
+        "de-DE": [
+          "berechtigung",
+          "erlaubnis"
+        ],
+        "fr-FR": [
+          "autorisation",
+          "permission"
+        ],
+        "es-ES": [
+          "permiso"
+        ],
+        "pt-BR": [
+          "permiss"
+        ],
+        "it-IT": [
+          "autorizzazion",
+          "permess"
+        ],
+        "ru": [
+          "разрешени",
+          "права"
+        ],
+        "hi-IN": [
+          "अनुमति"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "权限",
+        "de-DE": "Berechtigung",
+        "fr-FR": "autorisation",
+        "es-ES": "permiso",
+        "pt-BR": "permissão",
+        "it-IT": "autorizzazione",
+        "ru": "разрешение",
+        "hi-IN": "अनुमति"
+      },
+      "note": ""
+    },
+    {
+      "id": "api-key",
+      "category": "account",
+      "en": "API key",
+      "match": "\\bAPI keys?\\b",
+      "variants": {
+        "zh-Hans": [
+          "API 密钥",
+          "API 秘钥",
+          "API Key"
+        ],
+        "de-DE": [
+          "api-schlüssel",
+          "api-key"
+        ],
+        "fr-FR": [
+          "clé api",
+          "clés api",
+          "clé d’api"
+        ],
+        "es-ES": [
+          "clave de api",
+          "clave api",
+          "api key"
+        ],
+        "pt-BR": [
+          "chave de api",
+          "chave da api",
+          "api key"
+        ],
+        "it-IT": [
+          "chiave api",
+          "chiavi api",
+          "api key"
+        ],
+        "ru": [
+          "ключ api",
+          "api-ключ"
+        ],
+        "hi-IN": [
+          "api key",
+          "api कुंजी"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "API 密钥",
+        "de-DE": "API-Schlüssel",
+        "fr-FR": "clé API / clés API",
+        "es-ES": "clave de API",
+        "pt-BR": "chave de API",
+        "it-IT": "chiave API / chiavi API",
+        "ru": "ключ API",
+        "hi-IN": "API key"
+      },
+      "note": ""
+    },
+    {
+      "id": "plan",
+      "category": "billing",
+      "en": "Plan",
+      "match": "\\bplans?\\b",
+      "variants": {
+        "zh-Hans": [
+          "套餐",
+          "计划",
+          "方案"
+        ],
+        "zh-Hant": [
+          "方案"
+        ],
+        "ja-JP": [
+          "プラン"
+        ],
+        "ko-KR": [
+          "플랜",
+          "요금제"
+        ],
+        "de-DE": [
+          "plan",
+          "tarif",
+          "abo"
+        ],
+        "fr-FR": [
+          "forfait",
+          "abonnement",
+          "plan"
+        ],
+        "es-ES": [
+          "plan"
+        ],
+        "pt-BR": [
+          "plano"
+        ],
+        "it-IT": [
+          "piano"
+        ],
+        "ru": [
+          "план",
+          "тариф"
+        ],
+        "hi-IN": [
+          "प्लान",
+          "योजना"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "套餐",
+        "zh-Hant": "方案",
+        "ja-JP": "プラン",
+        "ko-KR": "플랜",
+        "de-DE": "Plan",
+        "fr-FR": "forfait",
+        "es-ES": "plan",
+        "pt-BR": "plano",
+        "it-IT": "piano",
+        "ru": "план",
+        "hi-IN": "प्लान"
+      },
+      "note": "The subscription tier, such as Pro or Max. Distinct from plan mode, e.g. zh-Hans 套餐 versus 计划模式."
+    },
+    {
+      "id": "usage",
+      "category": "billing",
+      "en": "Usage / Usage limits",
+      "match": "\\busage\\b",
+      "variants": {
+        "zh-Hans": [
+          "用量",
+          "使用量",
+          "使用限额"
+        ],
+        "zh-Hant": [
+          "使用量"
+        ],
+        "ja-JP": [
+          "使用量",
+          "使用状況",
+          "使用制限"
+        ],
+        "ko-KR": [
+          "사용량"
+        ],
+        "de-DE": [
+          "nutzung",
+          "verbrauch"
+        ],
+        "fr-FR": [
+          "utilisation",
+          "consommation",
+          "usage"
+        ],
+        "es-ES": [
+          "uso",
+          "consumo"
+        ],
+        "pt-BR": [
+          "uso",
+          "consumo"
+        ],
+        "it-IT": [
+          "utilizzo",
+          "consumo"
+        ],
+        "ru": [
+          "использовани",
+          "расход",
+          "потреблени"
+        ],
+        "hi-IN": [
+          "उपयोग",
+          "इस्तेमाल"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "用量（usage limits → 使用限额）",
+        "zh-Hant": "使用量（usage limits → 使用量限制）",
+        "ja-JP": "使用量（usage limits → 使用制限）",
+        "ko-KR": "사용량（usage limits → 사용량 제한）",
+        "de-DE": "Nutzung",
+        "fr-FR": "utilisation",
+        "es-ES": "uso",
+        "pt-BR": "uso",
+        "it-IT": "utilizzo",
+        "ru": "использование",
+        "hi-IN": "उपयोग"
+      },
+      "note": ""
+    },
+    {
+      "id": "upgrade",
+      "category": "billing",
+      "en": "Upgrade",
+      "match": "\\bupgrade\\b",
+      "variants": {
+        "zh-Hans": [
+          "升级"
+        ],
+        "de-DE": [
+          "upgrade",
+          "hochstuf"
+        ],
+        "fr-FR": [
+          "mise à niveau",
+          "mettre à niveau",
+          "passer à",
+          "upgrade"
+        ],
+        "es-ES": [
+          "mejor",
+          "actualiz",
+          "upgrade"
+        ],
+        "pt-BR": [
+          "upgrade",
+          "atualiz"
+        ],
+        "it-IT": [
+          "upgrade",
+          "passa a"
+        ],
+        "ru": [
+          "новый план",
+          "повыс",
+          "апгрейд"
+        ],
+        "hi-IN": [
+          "अपग्रेड"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "升级",
+        "de-DE": "Upgrade",
+        "fr-FR": "mise à niveau / mettre à niveau",
+        "es-ES": "actualizar",
+        "pt-BR": "fazer upgrade",
+        "it-IT": "upgrade",
+        "ru": "перейти на новый план",
+        "hi-IN": "अपग्रेड"
+      },
+      "note": ""
+    },
+    {
+      "id": "subscription",
+      "category": "billing",
+      "en": "Subscription",
+      "match": "\\bsubscriptions?\\b",
+      "variants": {
+        "zh-Hans": [
+          "订阅"
+        ],
+        "de-DE": [
+          "abonnement",
+          "abo"
+        ],
+        "fr-FR": [
+          "abonnement"
+        ],
+        "es-ES": [
+          "suscripción",
+          "suscripciones"
+        ],
+        "pt-BR": [
+          "assinatura",
+          "inscrição"
+        ],
+        "it-IT": [
+          "abbonament"
+        ],
+        "ru": [
+          "подписк"
+        ],
+        "hi-IN": [
+          "सदस्यता",
+          "सब्सक्रिप्शन"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "订阅",
+        "de-DE": "Abonnement",
+        "fr-FR": "abonnement",
+        "es-ES": "suscripción",
+        "pt-BR": "assinatura",
+        "it-IT": "abbonamento",
+        "ru": "подписка",
+        "hi-IN": "सदस्यता"
+      },
+      "note": ""
+    },
+    {
+      "id": "seat",
+      "category": "billing",
+      "en": "Seat",
+      "match": "\\bseats?\\b",
+      "variants": {
+        "zh-Hans": [
+          "席位",
+          "座位"
+        ],
+        "de-DE": [
+          "platz",
+          "plätze",
+          "lizenz"
+        ],
+        "fr-FR": [
+          "siège",
+          "poste",
+          "licence"
+        ],
+        "es-ES": [
+          "puesto",
+          "asiento",
+          "licencia"
+        ],
+        "pt-BR": [
+          "assento",
+          "licença"
+        ],
+        "it-IT": [
+          "postazion",
+          "posto",
+          "posti",
+          "licenz"
+        ],
+        "ru": [
+          "мест",
+          "лицензи"
+        ],
+        "hi-IN": [
+          "सीट"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "席位",
+        "de-DE": "Platz / Plätze",
+        "fr-FR": "siège",
+        "es-ES": "puesto",
+        "pt-BR": "assento",
+        "it-IT": "postazione",
+        "ru": "место",
+        "hi-IN": "सीट"
+      },
+      "note": ""
+    },
+    {
+      "id": "rate-limit",
+      "category": "billing",
+      "en": "Rate limit",
+      "match": "\\brate limit",
+      "variants": {
+        "zh-Hans": [
+          "速率限制",
+          "速率限额",
+          "限流"
+        ],
+        "de-DE": [
+          "ratenlimit",
+          "rate-limit"
+        ],
+        "fr-FR": [
+          "limite de débit",
+          "limites de débit",
+          "limite de requêtes",
+          "limite de taux"
+        ],
+        "es-ES": [
+          "límite de frecuencia",
+          "límites de frecuencia",
+          "límite de velocidad",
+          "límite de solicitudes"
+        ],
+        "pt-BR": [
+          "limite de taxa",
+          "limites de taxa",
+          "limite de requisições"
+        ],
+        "it-IT": [
+          "limite di frequenza",
+          "limiti di frequenza",
+          "limite di velocità",
+          "limite di richieste"
+        ],
+        "ru": [
+          "лимит запросов",
+          "лимиты запросов",
+          "ограничение частоты"
+        ],
+        "hi-IN": [
+          "रेट लिमिट",
+          "दर सीमा"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "速率限制",
+        "de-DE": "Ratenlimit",
+        "fr-FR": "limite de débit / limites de débit",
+        "es-ES": "límite de frecuencia",
+        "pt-BR": "limite de taxa / limites de taxa",
+        "it-IT": "limite di frequenza",
+        "ru": "лимит запросов / лимиты запросов",
+        "hi-IN": "रेट लिमिट"
+      },
+      "note": ""
+    },
+    {
+      "id": "pin",
+      "category": "action",
+      "en": "Pin / Pinned",
+      "match": "\\b(pin|pins|pinned|unpin)\\b",
+      "variants": {
+        "zh-Hans": [
+          "固定",
+          "锁定",
+          "置顶"
+        ],
+        "zh-Hant": [
+          "固定",
+          "釘選"
+        ],
+        "ja-JP": [
+          "ピン留め",
+          "固定"
+        ],
+        "ko-KR": [
+          "고정"
+        ],
+        "de-DE": [
+          "anheft",
+          "angeheftet",
+          "fixier"
+        ],
+        "fr-FR": [
+          "épingl",
+          "fixer"
+        ],
+        "es-ES": [
+          "fij",
+          "anclar"
+        ],
+        "pt-BR": [
+          "fixa",
+          "afixa"
+        ],
+        "it-IT": [
+          "fiss",
+          "aggancia"
+        ],
+        "ru": [
+          "закреп",
+          "фиксир"
+        ],
+        "hi-IN": [
+          "पिन"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "置顶（锁定配置 → 固定）",
+        "zh-Hant": "固定（列表置頂 → 釘選）",
+        "ja-JP": "ピン留め",
+        "ko-KR": "고정",
+        "de-DE": "anheften / angeheftet",
+        "fr-FR": "épingler",
+        "es-ES": "fijar",
+        "pt-BR": "fixar",
+        "it-IT": "fissa",
+        "ru": "закрепить",
+        "hi-IN": "पिन"
+      },
+      "note": "Pinning an item to the top of a list: zh-Hans 置顶, zh-Hant 釘選, ja-JP ピン留め. Locking a setting, such as a Git origin: zh-Hans 固定."
+    },
+    {
+      "id": "trust",
+      "category": "action",
+      "en": "Trust / Trusted",
+      "match": "\\btrust(ed|s)?\\b",
+      "variants": {
+        "zh-Hans": [
+          "信任"
+        ],
+        "zh-Hant": [
+          "信任"
+        ],
+        "ja-JP": [
+          "信頼"
+        ],
+        "ko-KR": [
+          "신뢰"
+        ],
+        "de-DE": [
+          "vertrau"
+        ],
+        "fr-FR": [
+          "confiance"
+        ],
+        "es-ES": [
+          "confia",
+          "confía",
+          "confianza"
+        ],
+        "pt-BR": [
+          "confi"
+        ],
+        "it-IT": [
+          "attendibil"
+        ],
+        "ru": [
+          "довер"
+        ],
+        "hi-IN": [
+          "भरोसा",
+          "विश्वास"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "信任",
+        "zh-Hant": "信任",
+        "ja-JP": "信頼",
+        "ko-KR": "신뢰",
+        "de-DE": "vertrauen",
+        "fr-FR": "faire confiance",
+        "es-ES": "confiar / confía / confianza",
+        "pt-BR": "confiar",
+        "it-IT": "attendibile",
+        "ru": "доверять",
+        "hi-IN": "भरोसा"
+      },
+      "note": "trusted folder = zh-Hans 受信任的文件夹."
+    },
+    {
+      "id": "allow",
+      "category": "action",
+      "en": "Allow / Allowed",
+      "match": "\\ballow(ed|s)?\\b",
+      "variants": {
+        "zh-Hans": [
+          "允许"
+        ],
+        "zh-Hant": [
+          "允許"
+        ],
+        "ja-JP": [
+          "許可"
+        ],
+        "ko-KR": [
+          "허용"
+        ],
+        "de-DE": [
+          "erlaub",
+          "zulass"
+        ],
+        "fr-FR": [
+          "autoris",
+          "permettre"
+        ],
+        "es-ES": [
+          "permit"
+        ],
+        "pt-BR": [
+          "permit"
+        ],
+        "it-IT": [
+          "consent",
+          "permett"
+        ],
+        "ru": [
+          "разреш",
+          "позвол"
+        ],
+        "hi-IN": [
+          "अनुमति",
+          "इजाज़त"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "允许",
+        "zh-Hant": "允許",
+        "ja-JP": "許可",
+        "ko-KR": "허용",
+        "de-DE": "erlauben",
+        "fr-FR": "autoriser",
+        "es-ES": "permitir",
+        "pt-BR": "permitir",
+        "it-IT": "consenti",
+        "ru": "разрешить",
+        "hi-IN": "अनुमति दें"
+      },
+      "note": ""
+    },
+    {
+      "id": "approve",
+      "category": "action",
+      "en": "Approve / Approved",
+      "match": "\\bapprov(e|ed|al)\\b",
+      "variants": {
+        "zh-Hans": [
+          "批准"
+        ],
+        "zh-Hant": [
+          "核准"
+        ],
+        "ja-JP": [
+          "承認"
+        ],
+        "ko-KR": [
+          "승인"
+        ],
+        "de-DE": [
+          "genehmig",
+          "freigeb"
+        ],
+        "fr-FR": [
+          "approuv",
+          "approbation",
+          "valider"
+        ],
+        "es-ES": [
+          "aproba",
+          "aprueb"
+        ],
+        "pt-BR": [
+          "aprov"
+        ],
+        "it-IT": [
+          "approv"
+        ],
+        "ru": [
+          "одобр",
+          "утверд"
+        ],
+        "hi-IN": [
+          "स्वीकृ",
+          "मंज़ूर"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "批准",
+        "zh-Hant": "核准",
+        "ja-JP": "承認",
+        "ko-KR": "승인",
+        "de-DE": "genehmigen",
+        "fr-FR": "approuver / approbation",
+        "es-ES": "aprobar / aprueba",
+        "pt-BR": "aprovar",
+        "it-IT": "approva",
+        "ru": "одобрить",
+        "hi-IN": "स्वीकृत करें"
+      },
+      "note": ""
+    },
+    {
+      "id": "fork",
+      "category": "action",
+      "en": "Fork",
+      "match": "\\bfork",
+      "variants": {
+        "zh-Hans": [
+          "分叉",
+          "复刻"
+        ],
+        "de-DE": [
+          "fork",
+          "geforkt",
+          "abzweig"
+        ],
+        "fr-FR": [
+          "dupliqu",
+          "fork",
+          "bifurqu"
+        ],
+        "es-ES": [
+          "bifurc",
+          "fork"
+        ],
+        "pt-BR": [
+          "fork",
+          "bifurc"
+        ],
+        "it-IT": [
+          "fork",
+          "biforc"
+        ],
+        "ru": [
+          "форк",
+          "ответвлени"
+        ],
+        "hi-IN": [
+          "फ़ोर्क"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "分叉",
+        "de-DE": "forken / geforkt",
+        "fr-FR": "dupliquer",
+        "es-ES": "bifurcar",
+        "pt-BR": "fork",
+        "it-IT": "fork",
+        "ru": "форк",
+        "hi-IN": "फ़ोर्क"
+      },
+      "note": ""
+    },
+    {
+      "id": "star",
+      "category": "action",
+      "en": "Star / Starred",
+      "match": "\\bstar(red)?\\b",
+      "variants": {
+        "zh-Hans": [
+          "收藏",
+          "星标"
+        ],
+        "de-DE": [
+          "stern",
+          "favorit"
+        ],
+        "fr-FR": [
+          "favori",
+          "étoile"
+        ],
+        "es-ES": [
+          "destac",
+          "favorit"
+        ],
+        "pt-BR": [
+          "favorit",
+          "estrela"
+        ],
+        "it-IT": [
+          "preferit",
+          "stella"
+        ],
+        "ru": [
+          "избранн",
+          "звезд"
+        ],
+        "hi-IN": [
+          "स्टार"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "收藏",
+        "de-DE": "mit Stern markieren",
+        "fr-FR": "ajouter aux favoris",
+        "es-ES": "destacar",
+        "pt-BR": "favoritar",
+        "it-IT": "aggiungi ai preferiti",
+        "ru": "избранное",
+        "hi-IN": "स्टार"
+      },
+      "note": ""
+    },
+    {
+      "id": "archive",
+      "category": "action",
+      "en": "Archive",
+      "match": "\\barchive(d)?\\b",
+      "variants": {
+        "zh-Hans": [
+          "归档",
+          "存档",
+          "压缩文件"
+        ],
+        "de-DE": [
+          "archivier"
+        ],
+        "fr-FR": [
+          "archiv"
+        ],
+        "es-ES": [
+          "archiv"
+        ],
+        "pt-BR": [
+          "arquiv"
+        ],
+        "it-IT": [
+          "archivi"
+        ],
+        "ru": [
+          "архив"
+        ],
+        "hi-IN": [
+          "आर्काइव",
+          "संग्रहीत"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "归档",
+        "de-DE": "archivieren",
+        "fr-FR": "archiver",
+        "es-ES": "archivar",
+        "pt-BR": "arquivar",
+        "it-IT": "archivia",
+        "ru": "архивировать",
+        "hi-IN": "आर्काइव"
+      },
+      "note": "An archive file format is a different term, e.g. zh-Hans 压缩文件."
+    },
+    {
+      "id": "share",
+      "category": "action",
+      "en": "Share",
+      "match": "\\bshare\\b",
+      "variants": {
+        "zh-Hans": [
+          "分享",
+          "共享"
+        ],
+        "de-DE": [
+          "teil",
+          "freigeb"
+        ],
+        "fr-FR": [
+          "partag"
+        ],
+        "es-ES": [
+          "compart"
+        ],
+        "pt-BR": [
+          "compartilh"
+        ],
+        "it-IT": [
+          "condivi"
+        ],
+        "ru": [
+          "подели",
+          "общий доступ"
+        ],
+        "hi-IN": [
+          "शेयर",
+          "साझा"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "共享 / 分享（按语境）",
+        "de-DE": "teilen",
+        "fr-FR": "partager",
+        "es-ES": "compartir",
+        "pt-BR": "compartilhar",
+        "it-IT": "condividi",
+        "ru": "поделиться",
+        "hi-IN": "शेयर"
+      },
+      "note": "zh-Hans: 共享 for ongoing access, such as sharing a project or plugin; 分享 for sending content, such as sharing a chat or Skill."
+    },
+    {
+      "id": "attach",
+      "category": "action",
+      "en": "Attach / Attachment",
+      "match": "\\battach",
+      "variants": {
+        "zh-Hans": [
+          "附加",
+          "附件",
+          "添加"
+        ],
+        "de-DE": [
+          "anhäng",
+          "angehängt",
+          "beifüg"
+        ],
+        "fr-FR": [
+          "joint",
+          "joindre",
+          "attach"
+        ],
+        "es-ES": [
+          "adjunt"
+        ],
+        "pt-BR": [
+          "anex"
+        ],
+        "it-IT": [
+          "allega",
+          "allegat"
+        ],
+        "ru": [
+          "прикреп",
+          "приложить",
+          "вложени"
+        ],
+        "hi-IN": [
+          "अटैच",
+          "संलग्न"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "附加（名词 → 附件）",
+        "de-DE": "anhängen / angehängt",
+        "fr-FR": "joindre / joint",
+        "es-ES": "adjuntar",
+        "pt-BR": "anexar",
+        "it-IT": "allega / allegato",
+        "ru": "прикрепить",
+        "hi-IN": "अटैच"
+      },
+      "note": ""
+    },
+    {
+      "id": "computer",
+      "category": "device",
+      "en": "this computer",
+      "match": "\\bcomputers?\\b",
+      "variants": {
+        "zh-Hans": [
+          "电脑",
+          "计算机",
+          "本机"
+        ],
+        "zh-Hant": [
+          "電腦",
+          "本機"
+        ],
+        "ja-JP": [
+          "コンピューター",
+          "パソコン"
+        ],
+        "ko-KR": [
+          "컴퓨터"
+        ],
+        "de-DE": [
+          "computer",
+          "rechner"
+        ],
+        "fr-FR": [
+          "ordinateur"
+        ],
+        "es-ES": [
+          "ordenador",
+          "computadora"
+        ],
+        "pt-BR": [
+          "computador"
+        ],
+        "it-IT": [
+          "computer"
+        ],
+        "ru": [
+          "компьютер"
+        ],
+        "hi-IN": [
+          "कंप्यूटर"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "电脑（this computer → 此电脑）",
+        "zh-Hant": "電腦",
+        "ja-JP": "コンピューター",
+        "ko-KR": "컴퓨터",
+        "de-DE": "Computer",
+        "fr-FR": "ordinateur",
+        "es-ES": "ordenador",
+        "pt-BR": "computador",
+        "it-IT": "computer",
+        "ru": "компьютер",
+        "hi-IN": "कंप्यूटर"
+      },
+      "note": "zh-Hans splits 计算机 and 电脑 almost evenly; 计算机 appears mostly with Computer use. Use 电脑 for the device."
+    },
+    {
+      "id": "phone",
+      "category": "device",
+      "en": "Phone",
+      "match": "\\bphones?\\b",
+      "variants": {
+        "zh-Hans": [
+          "手机"
+        ],
+        "zh-Hant": [
+          "手機"
+        ],
+        "ja-JP": [
+          "スマートフォン",
+          "スマホ"
+        ],
+        "ko-KR": [
+          "휴대폰",
+          "전화"
+        ],
+        "de-DE": [
+          "handy",
+          "telefon",
+          "smartphone"
+        ],
+        "fr-FR": [
+          "téléphone",
+          "portable",
+          "mobile"
+        ],
+        "es-ES": [
+          "teléfono",
+          "móvil",
+          "celular"
+        ],
+        "pt-BR": [
+          "celular",
+          "telefone"
+        ],
+        "it-IT": [
+          "telefono"
+        ],
+        "ru": [
+          "телефон",
+          "смартфон"
+        ],
+        "hi-IN": [
+          "फ़ोन",
+          "फोन",
+          "मोबाइल"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "手机",
+        "zh-Hant": "手機",
+        "ja-JP": "スマートフォン",
+        "ko-KR": "휴대폰",
+        "de-DE": "Telefon",
+        "fr-FR": "téléphone",
+        "es-ES": "teléfono",
+        "pt-BR": "celular",
+        "it-IT": "telefono",
+        "ru": "телефон",
+        "hi-IN": "फ़ोन"
+      },
+      "note": ""
+    },
+    {
+      "id": "cloud",
+      "category": "device",
+      "en": "Cloud",
+      "match": "\\bcloud\\b",
+      "variants": {
+        "zh-Hans": [
+          "云端",
+          "云"
+        ],
+        "zh-Hant": [
+          "雲端"
+        ],
+        "ja-JP": [
+          "クラウド"
+        ],
+        "ko-KR": [
+          "클라우드"
+        ],
+        "de-DE": [
+          "cloud"
+        ],
+        "fr-FR": [
+          "cloud",
+          "nuage"
+        ],
+        "es-ES": [
+          "nube",
+          "cloud"
+        ],
+        "pt-BR": [
+          "nuvem",
+          "cloud"
+        ],
+        "it-IT": [
+          "cloud"
+        ],
+        "ru": [
+          "облак",
+          "облачн"
+        ],
+        "hi-IN": [
+          "क्लाउड"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "云端",
+        "zh-Hant": "雲端",
+        "ja-JP": "クラウド",
+        "ko-KR": "클라우드",
+        "de-DE": "Cloud",
+        "fr-FR": "cloud",
+        "es-ES": "nube",
+        "pt-BR": "nuvem",
+        "it-IT": "cloud",
+        "ru": "облако / облачный",
+        "hi-IN": "क्लाउड"
+      },
+      "note": "Keep names such as Google Cloud."
+    },
+    {
+      "id": "settings",
+      "category": "ui",
+      "en": "Settings",
+      "match": "\\bsettings\\b",
+      "variants": {
+        "zh-Hans": [
+          "设置"
+        ],
+        "zh-Hant": [
+          "設定"
+        ],
+        "ja-JP": [
+          "設定"
+        ],
+        "ko-KR": [
+          "설정"
+        ],
+        "de-DE": [
+          "einstellungen"
+        ],
+        "fr-FR": [
+          "paramètres",
+          "réglages"
+        ],
+        "es-ES": [
+          "configuración",
+          "ajustes"
+        ],
+        "pt-BR": [
+          "configurações",
+          "ajustes",
+          "definições"
+        ],
+        "it-IT": [
+          "impostazioni"
+        ],
+        "ru": [
+          "настройк"
+        ],
+        "hi-IN": [
+          "सेटिंग्स"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "设置",
+        "zh-Hant": "設定",
+        "ja-JP": "設定",
+        "ko-KR": "설정",
+        "de-DE": "Einstellungen",
+        "fr-FR": "paramètres",
+        "es-ES": "configuración",
+        "pt-BR": "configurações",
+        "it-IT": "impostazioni",
+        "ru": "настройки",
+        "hi-IN": "सेटिंग्स"
+      },
+      "note": ""
+    },
+    {
+      "id": "configuration",
+      "category": "ui",
+      "en": "Configuration / Config",
+      "match": "\\bconfig(uration)?\\b",
+      "variants": {
+        "zh-Hans": [
+          "配置"
+        ],
+        "zh-Hant": [
+          "設定"
+        ],
+        "ja-JP": [
+          "設定",
+          "構成"
+        ],
+        "ko-KR": [
+          "구성",
+          "설정"
+        ],
+        "de-DE": [
+          "konfiguration"
+        ],
+        "fr-FR": [
+          "configuration"
+        ],
+        "es-ES": [
+          "configuración"
+        ],
+        "pt-BR": [
+          "configuração"
+        ],
+        "it-IT": [
+          "configurazion"
+        ],
+        "ru": [
+          "конфигураци"
+        ],
+        "hi-IN": [
+          "कॉन्फ़िगरेशन",
+          "विन्यास"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "配置",
+        "zh-Hant": "設定",
+        "ja-JP": "設定",
+        "ko-KR": "구성",
+        "de-DE": "Konfiguration",
+        "fr-FR": "configuration",
+        "es-ES": "configuración",
+        "pt-BR": "configuração",
+        "it-IT": "configurazione",
+        "ru": "конфигурация",
+        "hi-IN": "कॉन्फ़िगरेशन"
+      },
+      "note": "zh-Hans distinguishes settings = 设置 and config = 配置."
+    },
+    {
+      "id": "window",
+      "category": "ui",
+      "en": "Window",
+      "match": "\\bwindows?\\b",
+      "variants": {
+        "zh-Hans": [
+          "窗口"
+        ],
+        "zh-Hant": [
+          "視窗"
+        ],
+        "ja-JP": [
+          "ウィンドウ"
+        ],
+        "ko-KR": [
+          "창"
+        ],
+        "de-DE": [
+          "fenster"
+        ],
+        "fr-FR": [
+          "fenêtre"
+        ],
+        "es-ES": [
+          "ventana"
+        ],
+        "pt-BR": [
+          "janela"
+        ],
+        "it-IT": [
+          "finestr"
+        ],
+        "ru": [
+          "окн"
+        ],
+        "hi-IN": [
+          "विंडो"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "窗口",
+        "zh-Hant": "視窗",
+        "ja-JP": "ウィンドウ",
+        "ko-KR": "창",
+        "de-DE": "Fenster",
+        "fr-FR": "fenêtre",
+        "es-ES": "ventana",
+        "pt-BR": "janela",
+        "it-IT": "finestra",
+        "ru": "окно",
+        "hi-IN": "विंडो"
+      },
+      "note": ""
+    },
+    {
+      "id": "terminal",
+      "category": "ui",
+      "en": "Terminal",
+      "match": "\\bterminals?\\b",
+      "variants": {
+        "zh-Hans": [
+          "终端"
+        ],
+        "zh-Hant": [
+          "終端機"
+        ],
+        "ja-JP": [
+          "ターミナル"
+        ],
+        "ko-KR": [
+          "터미널"
+        ],
+        "de-DE": [
+          "terminal"
+        ],
+        "fr-FR": [
+          "terminal"
+        ],
+        "es-ES": [
+          "terminal"
+        ],
+        "pt-BR": [
+          "terminal"
+        ],
+        "it-IT": [
+          "terminal"
+        ],
+        "ru": [
+          "терминал"
+        ],
+        "hi-IN": [
+          "टर्मिनल"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "终端",
+        "zh-Hant": "終端機",
+        "ja-JP": "ターミナル",
+        "ko-KR": "터미널",
+        "de-DE": "Terminal",
+        "fr-FR": "terminal",
+        "es-ES": "terminal",
+        "pt-BR": "terminal",
+        "it-IT": "terminale",
+        "ru": "терминал",
+        "hi-IN": "टर्मिनल"
+      },
+      "note": ""
+    },
+    {
+      "id": "connect",
+      "category": "ui",
+      "en": "Connect / Connected / Connection",
+      "match": "\\bconnect(ed|ion|s)?\\b",
+      "variants": {
+        "zh-Hans": [
+          "连接"
+        ],
+        "zh-Hant": [
+          "連接",
+          "連線"
+        ],
+        "ja-JP": [
+          "接続"
+        ],
+        "ko-KR": [
+          "연결"
+        ],
+        "de-DE": [
+          "verbind",
+          "koppel"
+        ],
+        "fr-FR": [
+          "connexion",
+          "connecter"
+        ],
+        "es-ES": [
+          "conect",
+          "conexión"
+        ],
+        "pt-BR": [
+          "conect",
+          "conexão"
+        ],
+        "it-IT": [
+          "connession",
+          "connett",
+          "collega"
+        ],
+        "ru": [
+          "подключ",
+          "соединени"
+        ],
+        "hi-IN": [
+          "कनेक्ट",
+          "कनेक्शन",
+          "जोड़"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "连接",
+        "zh-Hant": "連線（動作：連接）",
+        "ja-JP": "接続",
+        "ko-KR": "연결",
+        "de-DE": "verbinden / Verbindung",
+        "fr-FR": "connexion / se connecter",
+        "es-ES": "conectar / conexión",
+        "pt-BR": "conectar / conexão",
+        "it-IT": "connessione / connetti",
+        "ru": "подключение",
+        "hi-IN": "कनेक्ट"
+      },
+      "note": ""
+    },
+    {
+      "id": "restart",
+      "category": "ui",
+      "en": "Restart",
+      "match": "\\brestart\\b",
+      "variants": {
+        "zh-Hans": [
+          "重启",
+          "重新启动"
+        ],
+        "zh-Hant": [
+          "重新啟動"
+        ],
+        "ja-JP": [
+          "再起動"
+        ],
+        "ko-KR": [
+          "다시 시작",
+          "재시작"
+        ],
+        "de-DE": [
+          "neu starten",
+          "starte neu",
+          "neustart"
+        ],
+        "fr-FR": [
+          "redémarr",
+          "relanc"
+        ],
+        "es-ES": [
+          "reinici"
+        ],
+        "pt-BR": [
+          "reinici"
+        ],
+        "it-IT": [
+          "riavvi"
+        ],
+        "ru": [
+          "перезапуст",
+          "перезагруз"
+        ],
+        "hi-IN": [
+          "रीस्टार्ट",
+          "पुनः आरंभ"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "重启",
+        "zh-Hant": "重新啟動",
+        "ja-JP": "再起動",
+        "ko-KR": "다시 시작",
+        "de-DE": "neu starten",
+        "fr-FR": "redémarrer",
+        "es-ES": "reiniciar",
+        "pt-BR": "reiniciar",
+        "it-IT": "riavvia",
+        "ru": "перезапустить",
+        "hi-IN": "रीस्टार्ट"
+      },
+      "note": "ko-KR mostly uses 다시 시작, sometimes 재시작."
+    },
+    {
+      "id": "update",
+      "category": "ui",
+      "en": "Update",
+      "match": "\\bupdat(e|es|ed|ing)\\b",
+      "variants": {
+        "zh-Hans": [
+          "更新"
+        ],
+        "zh-Hant": [
+          "更新"
+        ],
+        "ja-JP": [
+          "アップデート",
+          "更新"
+        ],
+        "ko-KR": [
+          "업데이트"
+        ],
+        "de-DE": [
+          "aktualisier",
+          "updat"
+        ],
+        "fr-FR": [
+          "à jour",
+          "actualis"
+        ],
+        "es-ES": [
+          "actualiz"
+        ],
+        "pt-BR": [
+          "atualiz"
+        ],
+        "it-IT": [
+          "aggiorn"
+        ],
+        "ru": [
+          "обнов"
+        ],
+        "hi-IN": [
+          "अपडेट",
+          "अद्यतन"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "更新",
+        "zh-Hant": "更新",
+        "ja-JP": "更新",
+        "ko-KR": "업데이트",
+        "de-DE": "aktualisieren",
+        "fr-FR": "mettre à jour",
+        "es-ES": "actualizar",
+        "pt-BR": "atualizar",
+        "it-IT": "aggiorna",
+        "ru": "обновить",
+        "hi-IN": "अपडेट"
+      },
+      "note": "ja-JP uses 更新 in general and アップデート mainly for app version updates."
+    },
+    {
+      "id": "debug-log",
+      "category": "ui",
+      "en": "Debug / Log",
+      "match": "\\b(debug(ging)?|logs?)\\b",
+      "variants": {
+        "zh-Hans": [
+          "调试",
+          "日志"
+        ],
+        "zh-Hant": [
+          "偵錯",
+          "除錯",
+          "記錄"
+        ],
+        "ja-JP": [
+          "デバッグ",
+          "ログ"
+        ],
+        "ko-KR": [
+          "디버그",
+          "디버깅",
+          "로그"
+        ],
+        "de-DE": [
+          "protokoll",
+          "logs"
+        ],
+        "fr-FR": [
+          "journa",
+          "logs"
+        ],
+        "es-ES": [
+          "registro",
+          "logs"
+        ],
+        "pt-BR": [
+          "logs",
+          "registros"
+        ],
+        "it-IT": [
+          "log"
+        ],
+        "ru": [
+          "журнал",
+          "лог"
+        ],
+        "hi-IN": [
+          "लॉग"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "调试 / 日志",
+        "zh-Hant": "偵錯 / 記錄",
+        "ja-JP": "デバッグ / ログ",
+        "ko-KR": "디버그 / 로그",
+        "de-DE": "Logs",
+        "fr-FR": "journaux",
+        "es-ES": "registros",
+        "pt-BR": "logs",
+        "it-IT": "log",
+        "ru": "журналы",
+        "hi-IN": "लॉग"
+      },
+      "note": "zh-Hant mixes 偵錯 and 除錯; 偵錯 is the majority."
+    },
+    {
+      "id": "dictation",
+      "category": "ui",
+      "en": "Dictation",
+      "match": "\\bdictation\\b",
+      "variants": {
+        "zh-Hans": [
+          "听写"
+        ],
+        "zh-Hant": [
+          "語音輸入",
+          "聽寫"
+        ],
+        "ja-JP": [
+          "音声入力"
+        ],
+        "ko-KR": [
+          "받아쓰기"
+        ],
+        "de-DE": [
+          "diktat",
+          "diktier",
+          "spracheingabe"
+        ],
+        "fr-FR": [
+          "dictée"
+        ],
+        "es-ES": [
+          "dictado"
+        ],
+        "pt-BR": [
+          "ditado"
+        ],
+        "it-IT": [
+          "dettatura"
+        ],
+        "ru": [
+          "диктовк"
+        ],
+        "hi-IN": [
+          "डिक्टेशन",
+          "श्रुतलेख"
+        ]
+      },
+      "recommended": {
+        "zh-Hans": "听写",
+        "zh-Hant": "聽寫",
+        "ja-JP": "音声入力",
+        "ko-KR": "받아쓰기",
+        "de-DE": "Diktat / diktieren",
+        "fr-FR": "dictée",
+        "es-ES": "dictado",
+        "pt-BR": "ditado",
+        "it-IT": "dettatura",
+        "ru": "диктовка",
+        "hi-IN": "डिक्टेशन"
+      },
+      "note": ""
+    }
+  ]
+}

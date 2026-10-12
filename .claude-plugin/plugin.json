@@ -1,0 +1,13 @@
+{
+  "name": "claude-i18n-style",
+  "description": "Write, translate and review product copy with the terminology and voice of Claude's official copy, in 12 languages. Use when writing or localizing UI strings, docs or release notes for an AI product.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Cyrus Cai",
+    "url": "https://github.com/cyrus-cai"
+  },
+  "homepage": "https://github.com/cyrus-cai/claude-i18n-style",
+  "repository": "https://github.com/cyrus-cai/claude-i18n-style",
+  "license": "MIT",
+  "keywords": ["i18n", "localization", "translation", "style-guide", "glossary", "copywriting"]
+}
